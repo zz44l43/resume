@@ -1,0 +1,30 @@
+<div class="row">
+    <div class="col s12 facts-content-col" [ngClass]="{'job': type === 'list'}">
+        <h4>
+            {{title}}
+        </h4>
+        <ng-container *ngIf="type && type === 'text'">
+            <p *ngFor="let item of items" [innerHtml]="item"></p>
+        </ng-container>   
+        <ng-container *ngIf="type && type === 'list'">
+            <ng-container *ngFor="let item of items">
+                <h5 class="role">
+                    {{item.label}} {{item.role}}
+                </h5>
+                <h6>
+                    {{item.duration}}
+                </h6>
+                <p *ngFor="let description of item.descriptions">
+                    <span [innerHtml]="description"></span>
+                </p>
+            </ng-container>
+        </ng-container>
+    </div>
+    <div class="col s12 facts-content-col" *ngIf="icons && icons.length > 0">
+        <div class="center-align built-with">
+            <a *ngFor="let icon of icons" [href]="icon.href" target="_blank" [title]="icon.title">
+                <img [src]="icon.src">
+            </a>
+        </div>
+    </div>
+</div>

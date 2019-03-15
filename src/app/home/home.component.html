@@ -1,0 +1,18 @@
+<main #content id="content">
+    <div class="row">
+        <div id="side-nav" class="col s12 m5 l4 primary-color">
+            <portrait-card *ngIf="this.model" [name]="this.model.name" [title]="this.model.title" [photo]="this.model.photo"></portrait-card>
+            <main-nav *ngIf="this.model" [sides]="this.model.sides"></main-nav>
+        </div>
+        <div id="main-panel" class="col s12 m7 l8">
+            <main-content *ngIf="this.model" [mains]="this.model.mains"></main-content>
+        </div>
+    </div>
+</main>
+<footer class="page-footer" (click)="download()">
+    <div id="forkongithub">
+        <a>
+            Download PDF
+        </a>
+    </div>
+</footer>
