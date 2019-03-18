@@ -1,0 +1,304 @@
+{
+    "frontmatter": {
+      "project": "Material Resume - Marcelo Paiva",
+      "version": "0.0.1",
+      "language": "en",
+      "description": "Professional Resume using Google's Material Design visual language. Built using modern web development workflow tools, such as Bower for package mamagement, Gulp and plugins for web development task management, Jade as HTML template language and Materialize SASS as CSS scaffolding."
+    },
+    "name": "Marcelo Paiva",
+    "title": "User Experience Director",
+    "photo": "assets/images/mpaiva2.jpg",
+    "sides":[
+      {
+        "label": "Summary",
+        "icon": "person_outline",
+        "type": "text",
+        "items":[
+          "More than 15 years building productive design teams,  solving complex systems challenges and developing thoughtful expertise to foster modern design practices in Agile development environments for mobile and web applications. ",
+          "Extensive leadership with designers and front-end developers, while enabling a creative environment of success for colleagues and team members."
+        ]
+      },
+      {
+        "label": "Contact",
+        "icon": "phone",
+        "type": "iconLink",
+        "items": [
+          {
+            "title": "phone",
+            "icon": "phone",
+            "value": "617-480-2837",
+            "href": "tel:6174802837",
+            "type": ""
+          },
+          {
+            "title": "email",
+            "icon": "email",
+            "value": "mpaiva@gmail.com",
+            "href": "mailto:mpaiva@gmail.com",
+            "type": ""
+          },
+          {
+            "title": "github",
+            "icon": "code",
+            "value": "github.com",
+            "href": "github.com",
+            "type": ""
+          },
+          {
+            "title": "website",
+            "icon": "link",
+            "value": "paiva.cc",
+            "href": "http://paiva.cc",
+            "type": ""
+          }
+        ]
+      },
+      {
+        "label": "Proficiency",
+        "icon": "format_list_bulleted",
+        "type": "slider",
+        "items":[
+          {
+            "icon": "fa-icon-name",
+            "label": "Sketch App / Photoshop",
+            "level": "90%"
+          },
+          {
+            "icon": "fa-icon-name",
+            "label": "Adobe Illustrator /inDesign",
+            "level": "95%"
+          },
+          {
+            "icon": "fa-icon-name",
+            "label": "Axure / Ominigraffle",
+            "level": "90%"
+          },
+          {
+            "icon": "fa-icon-name",
+            "label": "Marvel / Flinto / Pixate / Webflow",
+            "level": "80%"
+          },
+          {
+            "icon": "fa-icon-name",
+            "label": "HTML / Jade",
+            "level": "95%"
+          },
+          {
+            "icon": "fa-icon-name",
+            "label": "CSS / LESS / SASS / Booststrap",
+            "level": "95%"
+          },
+          {
+            "icon": "fa-icon-name",
+            "label": "AngularJs / NPM / Gulp",
+            "level": "80%"
+          }
+        ]
+      }
+    ],
+    "mains": [
+      {
+        "label": "Objective",
+        "type": "text",
+        "items" : [
+          "With over 15 years of experience building assisting design teams becoming efficient each day, I am pursuing a position as a <strong>team member</strong> in an organization that cares about the user and it creative environment - money is not the priority."
+        ]
+      },
+      {
+        "label": "Recent Activities",
+        "type": "list",
+        "items" : [
+          {
+            "label" : "TIAA-CREF client with NewRiver, Inc",
+            "role" : "Multidisciplinary Experience Designer",
+            "duration" : "5 years | 2010 - 2015",
+            "descriptions" : [
+              "Architected, designed, and developed a front-end solution delivering thousands of co-branded web- sites and on-demand factsheet PDFs ",
+              "Led team to developed interaction strategies, interaction design, prototyping, and visual design for a multidimensional site - Geography, Language and Partner"
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Education",
+        "type": "list",
+        "items" : [
+          {
+            "label" : "University of Melbourne",
+            "role" : "Master of Computer Science",
+            "duration" : "4 years | 2014 - 2018",
+            "descriptions" : [
+              "Architected, designed, and developed a front-end solution delivering thousands of co-branded web- sites and on-demand factsheet PDFs ",
+              "Led team to developed interaction strategies, interaction design, prototyping, and visual design for a multidimensional site - Geography, Language and Partner"
+            ]
+          }
+        ]
+      },
+      {
+        "label": "About this page",
+        "type": "text",
+        "items" : [
+          "This page was developed using a modern web development workflow approach that leverages",
+          "SoC principle to completely decouple the organization, style, interactive and content layers.",
+          "The tools below are part of this workflow."
+        ],
+        "icons" :[
+          {
+            "href": "http://angular.io/",
+            "title": "Angular 5 - As development framework",
+            "src": "assets/images/built_with_angular.png"
+          },
+          {
+            "href": "http://json.org/",
+            "title": "JSON - As content data layer",
+            "src": "assets/images/built_with_json2.png"
+          },
+          {
+            "href": "https://materializecss.com",
+            "title": "materialize - As style of content",
+            "src": "assets/images/built_with_materialize2.png"
+          }
+        ]
+      }
+    ],
+    "biography": {
+      "label": "Summary",
+      "icon": "mdi-social-person-outline",
+      "p1": "More than 15 years building productive design teams,  solving complex systems challenges and developing thoughtful expertise to foster modern design practices in Agile development environments for mobile and web applications. ",
+      "p2": "Extensive leadership with designers and front-end developers, while enabling a creative environment of success for colleagues and team members."
+    },
+    "contact": {
+      "label": "Contact",
+      "icon": "mdi-communication-call",
+      "items": [
+        {
+          "title": "phone",
+          "icon": "fa-phone-square",
+          "value": "617-480-2837",
+          "href": "tel:6174802837",
+          "type": ""
+        },
+        {
+          "title": "email",
+          "icon": "fa-envelope-square",
+          "value": "mpaiva@gmail.com",
+          "href": "mailto:mpaiva@gmail.com",
+          "type": ""
+        },
+        {
+          "title": "twitter",
+          "icon": "fa-twitter-square",
+          "value": "@muqueca",
+          "href": "https://twitter.com/muqueca",
+          "type": ""
+        },
+        {
+          "title": "linkedin",
+          "icon": "fa-linkedin-square",
+          "value": "linkedin.com/in/mtpaiva",
+          "href": "http://linkedin.com/in/mtpaiva",
+          "type": ""
+        },
+        {
+          "title": "website",
+          "icon": "fa-external-link-square",
+          "value": "paiva.cc",
+          "href": "http://paiva.cc",
+          "type": ""
+        }
+      ]
+    },
+    "skill": {
+      "label": "Proficiency",
+      "icon": "fa-sliders",
+      "items": [
+        {
+          "icon": "fa-icon-name",
+          "label": "Sketch App / Photoshop",
+          "level": "90"
+        },
+        {
+          "icon": "fa-icon-name",
+          "label": "Adobe Illustrator /inDesign",
+          "level": "95"
+        },
+        {
+          "icon": "fa-icon-name",
+          "label": "Axure / Ominigraffle",
+          "level": "90"
+        },
+        {
+          "icon": "fa-icon-name",
+          "label": "Marvel / Flinto / Pixate / Webflow",
+          "level": "80"
+        },
+        {
+          "icon": "fa-icon-name",
+          "label": "HTML / Jade",
+          "level": "95"
+        },
+        {
+          "icon": "fa-icon-name",
+          "label": "CSS / LESS / SASS / Booststrap",
+          "level": "95"
+        },
+        {
+          "icon": "fa-icon-name",
+          "label": "AngularJs / NPM / Gulp",
+          "level": "80"
+        }
+      ]
+    },
+    "job": {
+      "label": "Key Skills Assessment",
+      "highlights": [
+        {
+          "role": "As Leader",
+          "items": [
+            {
+              "description": "Directed team of interaction and visual designers to create responsive solution to monitor human violations in real-time, minimizing bank’s regulatory risk to zero",
+              "project": "Barclays Capital client with Sapient"
+            },
+            {
+              "description": "Streamlined UX budget from $4.4M/yr to 1.75M/yr (-60.3%) while establishing a lean cross-functional design and front-end development capable of delivering effectively in an Agile environment",
+              "project": "Thomson Reuters"
+            },
+            {
+              "description": "Lead product design strategy effort for an Investment Management segment, collaborating with over 10 stakeholders to brainstorm and prioritize features, define navigation patterns, and propose user interface design guidelines and framework",
+              "project": "Thomson Financial"
+            }
+          ]
+        },
+        {
+          "role": "As Multidisciplinary Experience Designer",
+          "items": [
+            {
+              "description": "Improved website (lincolncenter.org) user interaction and usability, allowing better customer communication and marketing in online and offline channels, and increase online ticket sales, subscriptions, and other revenue sources",
+              "project": "Lincoln Center for the Performing Arts, as Consultant"
+            },
+            {
+              "description": "Led team to developed interaction strategies, interaction design, prototyping, and visual design for a multidimensional site - Geography, Language and Partner",
+              "project": "Net2Phone, Inc"
+            },
+            {
+              "description": "Architected, designed, and developed a front-end solution delivering thousands of co-branded web- sites and on-demand factsheet PDFs ",
+              "project": "TIAA-CREF client with NewRiver, Inc"
+            }
+          ]
+        }
+      ]
+    },
+    "timeline": {
+      "label": "Professional Experience",
+      "icon": "",
+      "p1": "User experience designer capable of establishing a creative environment for team members to show their talents, complement each other, and strive to achieve the right design solution with measurable results and accountability. A thorough understanding of contemporary methodologies, and a confident influence for small to medium sized teams to thrive in a fast paced, challenging environment while creating thoughtful, innovative good business solutions for the end user.",
+      "infographPhone1": "images/graph-timeline-skills_@2x.png",
+      "infographPhone2": "images/graph-timeline-companies_@2x.png",
+      "infographHi": "images/graph-timeline_@2x.png"
+    },
+    "education": {
+      "label": "Education",
+      "icon": "mdi-social-school",
+      "description": "Electrical Designer, State Center of Technology Ferreira Viana, Rio de Janeiro , Brazil"
+    }
+  }
