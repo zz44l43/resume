@@ -9,14 +9,30 @@
         <ng-container *ngIf="type && type === 'list'">
             <ng-container *ngFor="let item of items">
                 <h5 class="role">
-                    {{item.label}} {{item.role}}
+                    {{item.label}} | {{item.role}}
                 </h5>
-                <h6>
+                <h6 *ngIf="item.duration">
                     {{item.duration}}
                 </h6>
-                <p *ngFor="let description of item.descriptions">
-                    <span [innerHtml]="description"></span>
-                </p>
+                <ng-container *ngIf="item.projects && item.projects.length > 0; else des">
+                    <div *ngFor="let project of item.projects" class="side">
+                        <p class="side">
+                            <span class="work-company">
+                                {{project.name}} | {{project.duration}}
+                            </span>
+                        </p>
+                        <p *ngFor="let description of project.descriptions" class="description">
+                                <span [innerHtml]="description"></span>
+                        </p>
+                    </div>
+                </ng-container>
+                <ng-template #des>
+                    <p *ngFor="let description of item.descriptions" class="description">
+                            <span [innerHtml]="description"></span>
+                    </p>
+                </ng-template>
+
+                
             </ng-container>
         </ng-container>
     </div>

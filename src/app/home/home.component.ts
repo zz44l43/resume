@@ -11,7 +11,13 @@ import * as html2canvas from 'html2canvas';
   })
   export class HomeComponent{  
     private _jsonURL:string = "assets/data.json";
-    private model: any;
+    private _model: any;
+    get model():any{
+      return this._model;
+    }
+    set model(model:any){
+      this._model = model;
+    }
     @ViewChild('content')content: ElementRef;
     constructor(private http: HttpClient) {
       this.http.get(this._jsonURL).subscribe(data => {
@@ -20,7 +26,6 @@ import * as html2canvas from 'html2canvas';
       console.log("Home component");
       }
       download(){
-        debugger;
         var data = document.getElementById("content");
         html2canvas(data).then(canvas => {  
           // Few necessary setting options  

@@ -6,24 +6,23 @@
 <div class="col s10 facts-content-col">
     <h5 class="side">{{title}}</h5>
     <ng-template [ngIf]="type === 'text'">
-        <p *ngFor="let item of items" class="facts-about">
-            {{item}}
+        <p *ngFor="let item of items" class="facts-about side" [innerHtml]="item">
         </p>
     </ng-template>
     <ng-template [ngIf]="type === 'iconLink' && items && items.length > 0">
         <p class="side">
             <ng-container *ngFor="let item of items">
                 <i class="material-icons vertical-align-center">{{item.icon}}</i> &nbsp;&nbsp;  
-                <a href="item.href" target="_blank" class="vertical-align-center">{{item.value}}</a>
+                <a [href]="item.href" target="_blank" class="vertical-align-center">{{item.value}}</a>
                 <br>
             </ng-container>           
         </p>
     </ng-template>
     <ng-template [ngIf]="type === 'slider'">
         <div class="facts-skills-wrapper">
-            <div *ngFor="let item of items" class="side">
+            <div *ngFor="let item of items" class="side" [title]="item.level">
                 <span class="progress-label">{{item.label}}</span>
-                <div class="progress progress-bg" data-tooltip="your tooltip message">
+                <div class="progress progress-bg">
                     <div class="determinate progress-fg light-bg" [style.width]="item.level"></div>
                 </div>
             </div>

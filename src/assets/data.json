@@ -5,158 +5,200 @@
       "language": "en",
       "description": "Professional Resume using Google's Material Design visual language. Built using modern web development workflow tools, such as Bower for package mamagement, Gulp and plugins for web development task management, Jade as HTML template language and Materialize SASS as CSS scaffolding."
     },
-    "name": "Marcelo Paiva",
-    "title": "User Experience Director",
+    "name": "郑陟(Zheng Zhi)",
+    "title": "软件开发员",
     "photo": "assets/images/mpaiva2.jpg",
     "sides":[
       {
-        "label": "Summary",
+        "label": "个人简介",
         "icon": "person_outline",
         "type": "text",
         "items":[
-          "More than 15 years building productive design teams,  solving complex systems challenges and developing thoughtful expertise to foster modern design practices in Agile development environments for mobile and web applications. ",
-          "Extensive leadership with designers and front-end developers, while enabling a creative environment of success for colleagues and team members."
+          "目前就职于 <a href='https://www.leaplegalsoftware.com/'><i>LEAP Legal Software Australia</i></a>, 担任多项任务研发工作。负责全澳海量文件自动化研发，各端口插件开发，内部程序研发以及核心引擎的开发和维护的工作",
+          "自2013年底开始，至今已有5年开发经验。熟练掌握C#,JavaScripts,SQL,Java,Python代码的编写。熟悉大部分Web开发与调试，能够使用主流框架进行网络页面的开发并且注重代码质量与执行效率。",
+          "热衷于使用代码解决实际问题，拥有独自负责客户端从无到有的产品设计，研发，流程图及开发文档，喜欢拥抱新技术，有很强的学习能力",
+          "熟悉Git Flow 工作流程有较好的 Git 使用习惯。有良好的代码风格与清晰的文档结构，遵循团队开发规范",          
+          "业余时间热爱学习编写开源代码，关注科技行业前沿技术，喜欢动手尝试各类新技术，特别是AI与机器学习方面"
         ]
       },
       {
-        "label": "Contact",
+        "label": "联系方式",
         "icon": "phone",
         "type": "iconLink",
         "items": [
           {
             "title": "phone",
             "icon": "phone",
-            "value": "617-480-2837",
-            "href": "tel:6174802837",
+            "value": "61-433-128100",
+            "href": "tel:61433128100",
             "type": ""
           },
           {
             "title": "email",
             "icon": "email",
-            "value": "mpaiva@gmail.com",
-            "href": "mailto:mpaiva@gmail.com",
+            "value": "georgezheng344@gmail.com",
+            "href": "mailto:georgezheng344@gmail.com",
             "type": ""
           },
           {
             "title": "github",
             "icon": "code",
-            "value": "github.com",
-            "href": "github.com",
+            "value": "https://github.com/zz44l43",
+            "href": "https://github.com/zz44l43",
             "type": ""
           },
           {
             "title": "website",
             "icon": "link",
-            "value": "paiva.cc",
-            "href": "http://paiva.cc",
+            "value": "https://github.com/zz44l43/resume",
+            "href": "https://github.com/zz44l43/resume",
             "type": ""
           }
         ]
       },
       {
-        "label": "Proficiency",
+        "label": "技能列表",
         "icon": "format_list_bulleted",
         "type": "slider",
         "items":[
           {
-            "icon": "fa-icon-name",
-            "label": "Sketch App / Photoshop",
+            "label": "JavaScript / Angular / Node",
+            "level": "95%"
+          },
+          {
+            "label": "ASP.NET Web API / C#",
             "level": "90%"
           },
           {
-            "icon": "fa-icon-name",
-            "label": "Adobe Illustrator /inDesign",
-            "level": "95%"
+            "label": "Java / Spring, Spring boot / Android",
+            "level": "85%"
           },
           {
-            "icon": "fa-icon-name",
-            "label": "Axure / Ominigraffle",
-            "level": "90%"
-          },
-          {
-            "icon": "fa-icon-name",
-            "label": "Marvel / Flinto / Pixate / Webflow",
+            "label": "SQL / SQL-Server / Postgresql",
             "level": "80%"
           },
           {
-            "icon": "fa-icon-name",
-            "label": "HTML / Jade",
-            "level": "95%"
-          },
-          {
-            "icon": "fa-icon-name",
-            "label": "CSS / LESS / SASS / Booststrap",
-            "level": "95%"
-          },
-          {
-            "icon": "fa-icon-name",
-            "label": "AngularJs / NPM / Gulp",
+            "label": "HTML / CSS / SASS / Bootstrap",
             "level": "80%"
+          },
+          {
+            "label": "Python / Flask / Numpy / Pandas / matplotlib / scikit-learn / tensorflow",
+            "level": "75%"
           }
         ]
       }
     ],
     "mains": [
       {
-        "label": "Objective",
-        "type": "text",
-        "items" : [
-          "With over 15 years of experience building assisting design teams becoming efficient each day, I am pursuing a position as a <strong>team member</strong> in an organization that cares about the user and it creative environment - money is not the priority."
-        ]
-      },
-      {
-        "label": "Recent Activities",
+        "label": "工作经历",
         "type": "list",
         "items" : [
           {
-            "label" : "TIAA-CREF client with NewRiver, Inc",
-            "role" : "Multidisciplinary Experience Designer",
-            "duration" : "5 years | 2010 - 2015",
-            "descriptions" : [
-              "Architected, designed, and developed a front-end solution delivering thousands of co-branded web- sites and on-demand factsheet PDFs ",
-              "Led team to developed interaction strategies, interaction design, prototyping, and visual design for a multidimensional site - Geography, Language and Partner"
+            "label" : "LEAP Legal Software, Australia",
+            "role" : "程序开发员",
+            "duration" : "2016 - 至今",
+            "projects":[
+              {
+                "name": "内部文档更新分类系统",
+                "duration" : "2018 - 至今",
+                "descriptions" : [
+                  "负责设计和开发一套基于机器学习的智能Web系统，帮助公司内部文档的更新分类",
+                  "利用NLP和机器学习的技术，让机器来帮助工作人员智能的进行文档每周的分类与更新，提高了至少1倍的工作效率",
+                  "利用Node,Angular5, Asp.Net Core2 和 Postgresql 搭建了数据收集软件，从此每周上千不同文档的更新与分类摆脱了手动的方式，也为利用机器学习的分类方法奠定了良好的基础"
+                ]
+              },
+              {
+                "name": "文档自动化系统创新与革新",
+                "duration" : "2017 - 至今",
+                "descriptions" : [
+                  "作为核心开发成员，负责带领研究，设计和开发一套适用于LEAP公司的PDF文档自动化系统，拓展了公司在各个国家的业务范围,让上万本的具有法律效应的PDF文档从此纳入公司的自动化目录，至此之后公司的自动化业务不再仅限于Word文档格式。",
+                  "优化代码和构架，提升自动化速度与效率，速度可比同公司Word自动化系统提升<strong>10倍</strong>。",
+                  "该项目在我接手之前，曾拥有1年的研发期，无奈最后无法突破技术瓶颈以失败告终。在我接手后，3个月内攻破瓶颈，促使该项目得以延续，系统现在已经正式上线，进入迭代与维护状态。"
+                ]
+              },
+              {
+                "name": "文档自动化核心引擎开发",
+                "duration" : "2016 - 2017",
+                "descriptions" : [
+                  "作为主要开发员之一，负责公司文档自动化的核心引擎的开发，上架及后续迭代，维护的工作，利用原生JavaScripts完全重构了核心引擎。",
+                  "该引擎是LEAP公司所有自动化业务的核心，每日负责着全澳上万不同法律文档的自动化进程，新引擎上线后，公司业务正常运行，客户没有受到任何影响。"
+                ]
+              },
+              {
+                "name": "其它项目",
+                "duration" : "2016 - 至今",
+                "descriptions" : [
+                  "作为前端开发员，负责使用Node，Angular4以及其它web技术更换以VBA为主要插件的Word文档自动化技术，新的技术大大提升了人机交流的体验与运行速度。",
+                  "作为全栈开发员，根据业务需求分析，负责使用Web的全栈技术，开发和设计各项业务插件"
+                ]
+              }
+              
+            ]
+          },
+          {
+            "label" : "The University of Melbourne",
+            "role" : "研究助手",
+            "duration" : "2018",
+            "projects":[
+              {
+                "name": "犯罪分子智能识别系统",
+                "duration" : "1年",
+                "descriptions" : [
+                  "墨尔本大学E-Research的成员，作为该项目的主要负责人，带领一个5人的团队，进行程序的研究，设计和Android移动端以及后端Java的开发。",
+                  "该项目致力于应用最新的声音与图像识别功能辅以手机应用的便携性，帮助执法人员随时随地，识别出有过案底的罪犯",
+                  "该项目作为墨大研究生毕业论文的一部分，成功取得H1的好成绩"
+                ]
+              }              
+            ]
+          },
+          {
+            "label" : "Cognology",
+            "role" : "全栈Web开发员",
+            "duration" : "2013 - 2016",
+            "projects":[
+              {
+                "name": "SAAS HR系统开发",
+                "duration" : "2013 - 2016",
+                "descriptions" : [
+                  "作为开发员利用Asp.Net C#, AngularJs, SQL Server开发多项业务模块美术系web开发框架，熟悉MVC模型",
+                  "利用Selenium, Unit-Test等工具对产品进行多方面测试，保证代码的可靠和安全",
+                  "负责新模块的系统与数据库的架构设计与编写"
+                ]
+              }              
             ]
           }
         ]
       },
       {
-        "label": "Education",
+        "label": "教育经历",
         "type": "list",
         "items" : [
           {
-            "label" : "University of Melbourne",
-            "role" : "Master of Computer Science",
-            "duration" : "4 years | 2014 - 2018",
+            "label" : "墨尔本大学",
+            "role" : "计算机科学研究生",
+            "duration" : "2014 - 2018",
             "descriptions" : [
-              "Architected, designed, and developed a front-end solution delivering thousands of co-branded web- sites and on-demand factsheet PDFs ",
-              "Led team to developed interaction strategies, interaction design, prototyping, and visual design for a multidimensional site - Geography, Language and Partner"
+              "工作之余在墨大攻读计算机研究生，获得学院奖学金，期间所有研究项目均获得<strong>H1</strong>的好成绩，并且在2017发表了 <i>A Mobile Application and Cloud Platform Supporting Research into Alcohol Consumption</i> 于ICMHI2017上。",
+              "主要研究方向为计算机科学的应用，主要集中在移动式，云端和Ai技术在研究领域的应用，研究如何利用最先进的计算机技术帮助不同领域的人们提高效率，改变做事情的方式。",
+              "就读期间受老师邀请进入学校E-Research部门，研究如何将各种计算机技术运用到实际项目中。",
+              "攻读不同授课类课程，选课主要方向为AI,机器学习与分布式系统。"
             ]
-          }
-        ]
-      },
-      {
-        "label": "About this page",
-        "type": "text",
-        "items" : [
-          "This page was developed using a modern web development workflow approach that leverages",
-          "SoC principle to completely decouple the organization, style, interactive and content layers.",
-          "The tools below are part of this workflow."
-        ],
-        "icons" :[
-          {
-            "href": "http://angular.io/",
-            "title": "Angular 5 - As development framework",
-            "src": "assets/images/built_with_angular.png"
           },
           {
-            "href": "http://json.org/",
-            "title": "JSON - As content data layer",
-            "src": "assets/images/built_with_json2.png"
+            "label" : "墨尔本皇家理工大学",
+            "role" : "计算机授课型硕士",
+            "duration" : "2012 - 2013",
+            "descriptions" : [
+              "攻读于墨尔本皇家理工大学，在校期间取得了<strong>3.9/4.0</strong> 的GPA,成绩位于学院前10%，获得Golden Key成员邀请。"
+            ]
           },
           {
-            "href": "https://materializecss.com",
-            "title": "materialize - As style of content",
-            "src": "assets/images/built_with_materialize2.png"
+            "label" : "墨尔本大学",
+            "role" : "会计与金融本科",
+            "duration" : "2008 - 2010",
+            "descriptions" : [
+              "本科毕业于墨尔本大学商学院"
+            ]
           }
         ]
       }
@@ -182,7 +224,7 @@
           "title": "email",
           "icon": "fa-envelope-square",
           "value": "mpaiva@gmail.com",
-          "href": "mailto:mpaiva@gmail.com",
+          "href": "mailto:georgezheng344@gmail.com",
           "type": ""
         },
         {
@@ -300,5 +342,32 @@
       "label": "Education",
       "icon": "mdi-social-school",
       "description": "Electrical Designer, State Center of Technology Ferreira Viana, Rio de Janeiro , Brazil"
+    },
+    "rest": {
+      "label": "关于这页",
+      "type": "text",
+      "items" : [
+        "This page was developed using a modern web development workflow approach that leverages",
+        "SoC principle to completely decouple the organization, style, interactive and content layers.",
+        "The tools below are part of this workflow."
+      ],
+      "icons" :[
+        {
+          "href": "http://angular.io/",
+          "title": "Angular 5 - As development framework",
+          "src": "assets/images/built_with_angular.png"
+        },
+        {
+          "href": "http://json.org/",
+          "title": "JSON - As content data layer",
+          "src": "assets/images/built_with_json2.png"
+        },
+        {
+          "href": "https://materializecss.com",
+          "title": "materialize - As style of content",
+          "src": "assets/images/built_with_materialize2.png"
+        }
+      ]
     }
   }
+ 
