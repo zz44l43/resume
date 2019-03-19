@@ -26,32 +26,6 @@ import * as html2canvas from 'html2canvas';
       console.log("Home component");
       }
       download(){
-        var data = document.getElementById("content");
-        html2canvas(data).then(canvas => {  
-          // Few necessary setting options  
-          var imgWidth = 208;   
-          var pageHeight = 295;    
-          var imgHeight = canvas.height * imgWidth / canvas.width;  
-          var heightLeft = imgHeight;  
-      
-          const contentDataURL = canvas.toDataURL('image/png')  
-          let pdf = new jsPDf('p', 'mm', 'a4'); // A4 size page of PDF  
-          var position = 0;  
-          pdf.addImage(contentDataURL, 'PNG', 0, position, imgWidth, imgHeight)  
-          pdf.save('MYPdf.pdf'); // Generated PDF   
-        });
-
-        // let doc = new jsPDf();
-        // let elementHandler = {
-        //   "#editor":function(element, renderer){
-        //     return true;
-        //   }
-        // };
-        // let content = this.content.nativeElement;
-        // doc.fromHTML(content.innerHTML,15,15,{
-        //   "width": 190,
-        //   "elementHandler" : elementHandler
-        // });
-        // doc.save("test.pdf");
+        
       }
   }
