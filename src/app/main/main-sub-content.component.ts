@@ -46,4 +46,9 @@ import { Component,Input } from "@angular/core";
     constructor() {
       console.log("main-sub-content");
       }
+
+    getTitleAndRole(item:any){
+      debugger;
+      return item.label  + " | " + item.role;
+    }
   }

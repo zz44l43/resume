@@ -8,8 +8,8 @@
         </ng-container>   
         <ng-container *ngIf="type && type === 'list'">
             <ng-container *ngFor="let item of items">
-                <h5 class="role">
-                    {{item.label}} | {{item.role}}
+                <h5 class="role"[innerHtml]="getTitleAndRole(item)">
+                    <!-- {{item.label}} | <span ></span> -->
                 </h5>
                 <h6 *ngIf="item.duration">
                     {{item.duration}}

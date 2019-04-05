@@ -95,7 +95,7 @@
         "items" : [
           {
             "label" : "LEAP Legal Software, Australia",
-            "role" : "程序开发员",
+            "role" : "程序开发员 <i>(2019三月份最佳员工)</i>",
             "duration" : "2016 - 至今",
             "projects":[
               {
@@ -175,7 +175,7 @@
         "items" : [
           {
             "label" : "墨尔本大学",
-            "role" : "计算机科学研究生",
+            "role" : "计算机科学研究生 <a href='https://study.unimelb.edu.au/find/courses/graduate/master-of-science-computer-science/'><i>(Master of Science (Computer Science))</i></a>",
             "duration" : "2014 - 2018",
             "descriptions" : [
               "工作之余在墨大攻读计算机研究生，获得学院奖学金，期间所有研究项目均获得<strong>H1</strong>的好成绩，并且在2017年发表了 <i>A Mobile Application and Cloud Platform Supporting Research into Alcohol Consumption</i> 文章于ICMHI2017上。",
@@ -194,7 +194,7 @@
           },
           {
             "label" : "墨尔本大学",
-            "role" : "会计与金融本科",
+            "role" : "会计与金融本科 <a href='https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/'><i>(Bachelor of Commerce(Accounting & Finance))</i></a>",
             "duration" : "2008 - 2010",
             "descriptions" : [
               "本科毕业于墨尔本大学商学院。"
