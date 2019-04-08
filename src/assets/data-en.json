@@ -16,9 +16,9 @@
       "items":[
         "Extensive software development experience and currently working at <a href='https://www.leaplegalsoftware.com/'><i>LEAP Legal Software Australia</i></a> since 2016. Involved in numerous software development projects such as Australian wide's Documents & Precedents Automation, LEAP-Plugins development and Internal software development",
         "More than 5 years of software development experience since 2013. Familiar with a number of programming languages such as C#, JavaScripts, SQL, Java, and Python as well as a number of frameworks such as Angular, MVC and Entity Framework",
-        "Experience and involved with the whole development cycle from design to deployment phase. Passion in learning new technologies and keen to put them in production and solve the real problems",
+        "Experience and involved with the whole development cycle from design to deployment. Passion in learning new technologies and keen to put them in production and solve the real world problems",
         "Familiar with the Git and version control. Always looking for and adopting best practices when programming",
-        "Outside of the work, I'm also passion in learning new technologies and involve in non-work related projects"
+        "Outside of the work, I'm interest in learning new technologies and involve in non-work related projects to try out"
       ]
     },
     {
@@ -111,9 +111,9 @@
               "name": "Document Automation System Development and Innovation",
               "duration" : "2017 - Present",
               "descriptions" : [
-                "Lead and responsible for designing and developing LEAP's PDF Document Automation System. This system allows the LEAP to introduces new products in addition to Word Document Automation. Consequently, thousands of PDF precedents and documents are capable to be automated by LEAP",
+                "Lead and responsible for designing and developing LEAP's PDF Document Automation System. This system allows the LEAP to introduces new products in addition to Word Document Automation. Thus, thousands of PDF precedents and documents are capable to be automated by LEAP now",
                 "Optimize the code and design of the system. As the result, PDF automation system performs <i>10 times</i> better than the Word Document Automation System",
-                "Before I took it over, this project had started 1 year but not able to progress due to technology bottleneck. I spend about 3 months to make a breakthrough on the bottleneck and now the system had to go online"
+                "Before I took it over, this project had started 1 year but not able to progress due to technology bottleneck. I spend about 3 months to make a breakthrough on the bottleneck and now the system had gone online in production"
               ]
             },
             {
@@ -129,7 +129,7 @@
               "name": "Other project",
               "duration" : "2016 - Present",
               "descriptions" : [
-                "As the front developer, using Node and Angular4 and other Web technology to conver the VBA based document automation Plugin to JS based document plugin. New JS based document plugin boost the user experience and system performance",
+                "As the front end developer, using Node and Angular4 and other Web technology to convert the VBA based document automation plugin to JavaScripts based document plugin. New JavaScripts based document plugin boost the user experience and system performance",
                 "As the full stack developer design and develop various plugins according to requirements"
               ]
             }              
@@ -142,7 +142,7 @@
           "projects":[
             {
               "name": "Animal Offender Identification App",
-              "duration" : "1年",
+              "duration" : "1 year",
               "descriptions" : [
                 "As the member of E-Research in The University of Melbourne, I was responsible to design and develop an Android App and a Spring-based JAVA back end to identify offender in the field of animal protection",
                 "Leverage the mobility that Mobile App offers this project power it with Voice and Image recognition technology to help patrols to identify the Offenders",
@@ -178,8 +178,8 @@
           "role" : "Master of Science (Computer Science)",
           "duration" : "2014 - 2018",
           "descriptions" : [
-            "Part-time student to finish my study in Computer Science at The University of Melbourne, granted with Scholarship from the Department of Engineering. All the research project had achieved the highest grade of <strong>H1</strong>，published <i>A Mobile Application and Cloud Platform Supporting Research into Alcohol Consumption</i> paper on ICMHI2017",
-            "Main research focus in applied computing and concentrate of using Cloud, mobile and AI technology to in various fields and thus capable to changing the way people doing things and benefit the productivity boost from the newest computing technologies",
+            "Part-time student to finish my study in Computer Science at The University of Melbourne, granted with Scholarship from the Department of Engineering. All the research projects had achieved the highest grade of <strong>H1</strong>, published paper <i>A Mobile Application and Cloud Platform Supporting Research into Alcohol Consumption</i> on ICMHI2017",
+            "Main research focus in applied computing and concentrate of using Cloud, mobile and AI technology in various fields and thus capable of changing the way people doing things and allow them to be benefit by the leading computing technologies",
             "Invited by the supervisor to join the E-Research group in The University of Melbourne, focus on apply computing",
             "Study various non-research subjects mainly focus on AI, Machine Learning and Distributed System"
           ]
@@ -189,7 +189,7 @@
           "role" : "Master of Computing",
           "duration" : "2012 - 2013",
           "descriptions" : [
-            "Study in Royal Melbourne Institute of Technology and achieved GPA of <strong>3.9/4.0</strong> ,top 10% in the deparment，invited to become a Golden Key member"
+            "Study in Royal Melbourne Institute of Technology and achieved GPA of <strong>3.9/4.0</strong> ,top 10% in the deparment, invited to become a Golden Key member"
           ]
         },
         {
