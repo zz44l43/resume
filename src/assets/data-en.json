@@ -1,304 +1,232 @@
 {
-    "frontmatter": {
-      "project": "Material Resume - Marcelo Paiva",
-      "version": "0.0.1",
-      "language": "en",
-      "description": "Professional Resume using Google's Material Design visual language. Built using modern web development workflow tools, such as Bower for package mamagement, Gulp and plugins for web development task management, Jade as HTML template language and Materialize SASS as CSS scaffolding."
-    },
-    "name": "Marcelo Paiva",
-    "title": "User Experience Director",
-    "photo": "assets/images/mpaiva2.jpg",
-    "sides":[
-      {
-        "label": "Summary",
-        "icon": "person_outline",
-        "type": "text",
-        "items":[
-          "More than 15 years building productive design teams,  solving complex systems challenges and developing thoughtful expertise to foster modern design practices in Agile development environments for mobile and web applications. ",
-          "Extensive leadership with designers and front-end developers, while enabling a creative environment of success for colleagues and team members."
-        ]
-      },
-      {
-        "label": "Contact",
-        "icon": "phone",
-        "type": "iconLink",
-        "items": [
-          {
-            "title": "phone",
-            "icon": "phone",
-            "value": "617-480-2837",
-            "href": "tel:6174802837",
-            "type": ""
-          },
-          {
-            "title": "email",
-            "icon": "email",
-            "value": "mpaiva@gmail.com",
-            "href": "mailto:mpaiva@gmail.com",
-            "type": ""
-          },
-          {
-            "title": "github",
-            "icon": "code",
-            "value": "github.com",
-            "href": "github.com",
-            "type": ""
-          },
-          {
-            "title": "website",
-            "icon": "link",
-            "value": "paiva.cc",
-            "href": "http://paiva.cc",
-            "type": ""
-          }
-        ]
-      },
-      {
-        "label": "Proficiency",
-        "icon": "format_list_bulleted",
-        "type": "slider",
-        "items":[
-          {
-            "icon": "fa-icon-name",
-            "label": "Sketch App / Photoshop",
-            "level": "90%"
-          },
-          {
-            "icon": "fa-icon-name",
-            "label": "Adobe Illustrator /inDesign",
-            "level": "95%"
-          },
-          {
-            "icon": "fa-icon-name",
-            "label": "Axure / Ominigraffle",
-            "level": "90%"
-          },
-          {
-            "icon": "fa-icon-name",
-            "label": "Marvel / Flinto / Pixate / Webflow",
-            "level": "80%"
-          },
-          {
-            "icon": "fa-icon-name",
-            "label": "HTML / Jade",
-            "level": "95%"
-          },
-          {
-            "icon": "fa-icon-name",
-            "label": "CSS / LESS / SASS / Booststrap",
-            "level": "95%"
-          },
-          {
-            "icon": "fa-icon-name",
-            "label": "AngularJs / NPM / Gulp",
-            "level": "80%"
-          }
-        ]
-      }
-    ],
-    "mains": [
-      {
-        "label": "Objective",
-        "type": "text",
-        "items" : [
-          "With over 15 years of experience building assisting design teams becoming efficient each day, I am pursuing a position as a <strong>team member</strong> in an organization that cares about the user and it creative environment - money is not the priority."
-        ]
-      },
-      {
-        "label": "Recent Activities",
-        "type": "list",
-        "items" : [
-          {
-            "label" : "TIAA-CREF client with NewRiver, Inc",
-            "role" : "Multidisciplinary Experience Designer",
-            "duration" : "5 years | 2010 - 2015",
-            "descriptions" : [
-              "Architected, designed, and developed a front-end solution delivering thousands of co-branded web- sites and on-demand factsheet PDFs ",
-              "Led team to developed interaction strategies, interaction design, prototyping, and visual design for a multidimensional site - Geography, Language and Partner"
-            ]
-          }
-        ]
-      },
-      {
-        "label": "Education",
-        "type": "list",
-        "items" : [
-          {
-            "label" : "University of Melbourne",
-            "role" : "Master of Computer Science",
-            "duration" : "4 years | 2014 - 2018",
-            "descriptions" : [
-              "Architected, designed, and developed a front-end solution delivering thousands of co-branded web- sites and on-demand factsheet PDFs ",
-              "Led team to developed interaction strategies, interaction design, prototyping, and visual design for a multidimensional site - Geography, Language and Partner"
-            ]
-          }
-        ]
-      },
-      {
-        "label": "About this page",
-        "type": "text",
-        "items" : [
-          "This page was developed using a modern web development workflow approach that leverages",
-          "SoC principle to completely decouple the organization, style, interactive and content layers.",
-          "The tools below are part of this workflow."
-        ],
-        "icons" :[
-          {
-            "href": "http://angular.io/",
-            "title": "Angular 5 - As development framework",
-            "src": "assets/images/built_with_angular.png"
-          },
-          {
-            "href": "http://json.org/",
-            "title": "JSON - As content data layer",
-            "src": "assets/images/built_with_json2.png"
-          },
-          {
-            "href": "https://materializecss.com",
-            "title": "materialize - As style of content",
-            "src": "assets/images/built_with_materialize2.png"
-          }
-        ]
-      }
-    ],
-    "biography": {
+  "frontmatter": {
+    "project": "Material Resume - Zhi Zheng",
+    "version": "0.0.1",
+    "language": "cn",
+    "description": "Professional Resume using Google's Material Design visual language. Built using modern web development workflow tools, such as Bower for package mamagement, Gulp and plugins for web development task management, Jade as HTML template language and Materialize SASS as CSS scaffolding."
+  },
+  "name": "Zheng Zhi (George)",
+  "title": "Software developer",
+  "photo": "assets/images/self.jpg",
+  "sides":[
+    {
       "label": "Summary",
-      "icon": "mdi-social-person-outline",
-      "p1": "More than 15 years building productive design teams,  solving complex systems challenges and developing thoughtful expertise to foster modern design practices in Agile development environments for mobile and web applications. ",
-      "p2": "Extensive leadership with designers and front-end developers, while enabling a creative environment of success for colleagues and team members."
+      "icon": "person_outline",
+      "type": "text",
+      "items":[
+        "Extensive software development experience and currently working at <a href='https://www.leaplegalsoftware.com/'><i>LEAP Legal Software Australia</i></a> since 2016. Involved in numerous software development projects such as Australian wide's Documents & Precedents Automation, LEAP-Plugins development and Internal software development",
+        "More than 5 years of software development experience since 2013. Familiar with a number of programming languages such as C#, JavaScripts, SQL, Java, and Python as well as a number of frameworks such as Angular, MVC and Entity Framework",
+        "Experience and involved with the whole development cycle from design to deployment phase. Passion in learning new technologies and keen to put them in production and solve the real problems",
+        "Familiar with the Git and version control. Always looking for and adopting best practices when programming",
+        "Outside of the work, I'm also passion in learning new technologies and involve in non-work related projects"
+      ]
     },
-    "contact": {
-      "label": "Contact",
-      "icon": "mdi-communication-call",
+    {
+      "label": "Contact Me",
+      "icon": "phone",
+      "type": "iconLink",
       "items": [
         {
           "title": "phone",
-          "icon": "fa-phone-square",
-          "value": "617-480-2837",
-          "href": "tel:6174802837",
+          "icon": "phone",
+          "value": "61-433-128100",
+          "href": "tel:61433128100",
           "type": ""
         },
         {
           "title": "email",
-          "icon": "fa-envelope-square",
-          "value": "mpaiva@gmail.com",
-          "href": "mailto:mpaiva@gmail.com",
+          "icon": "email",
+          "value": "georgezheng344@gmail.com",
+          "href": "mailto:georgezheng344@gmail.com",
           "type": ""
         },
         {
-          "title": "twitter",
-          "icon": "fa-twitter-square",
-          "value": "@muqueca",
-          "href": "https://twitter.com/muqueca",
-          "type": ""
-        },
-        {
-          "title": "linkedin",
-          "icon": "fa-linkedin-square",
-          "value": "linkedin.com/in/mtpaiva",
-          "href": "http://linkedin.com/in/mtpaiva",
+          "title": "github",
+          "icon": "code",
+          "value": "https://github.com/zz44l43",
+          "href": "https://github.com/zz44l43",
           "type": ""
         },
         {
           "title": "website",
-          "icon": "fa-external-link-square",
-          "value": "paiva.cc",
-          "href": "http://paiva.cc",
+          "icon": "link",
+          "value": "https://zz44l43.github.io/resume/",
+          "href": "https://zz44l43.github.io/resume/",
           "type": ""
         }
       ]
     },
-    "skill": {
-      "label": "Proficiency",
-      "icon": "fa-sliders",
-      "items": [
+    {
+      "label": "Skills",
+      "icon": "format_list_bulleted",
+      "type": "slider",
+      "items":[
         {
-          "icon": "fa-icon-name",
-          "label": "Sketch App / Photoshop",
-          "level": "90"
+          "label": "JavaScript / Angular / Node",
+          "level": "95%"
         },
         {
-          "icon": "fa-icon-name",
-          "label": "Adobe Illustrator /inDesign",
-          "level": "95"
+          "label": "ASP.NET Web API / C#",
+          "level": "90%"
         },
         {
-          "icon": "fa-icon-name",
-          "label": "Axure / Ominigraffle",
-          "level": "90"
+          "label": "Java / Spring, Spring boot / Android",
+          "level": "85%"
         },
         {
-          "icon": "fa-icon-name",
-          "label": "Marvel / Flinto / Pixate / Webflow",
-          "level": "80"
+          "label": "SQL / SQL-Server / Postgresql",
+          "level": "80%"
         },
         {
-          "icon": "fa-icon-name",
-          "label": "HTML / Jade",
-          "level": "95"
+          "label": "HTML / CSS / SASS / Bootstrap",
+          "level": "80%"
         },
         {
-          "icon": "fa-icon-name",
-          "label": "CSS / LESS / SASS / Booststrap",
-          "level": "95"
-        },
-        {
-          "icon": "fa-icon-name",
-          "label": "AngularJs / NPM / Gulp",
-          "level": "80"
+          "label": "Python / Flask / Numpy / Pandas / matplotlib / scikit-learn / tensorflow",
+          "level": "75%"
         }
       ]
-    },
-    "job": {
-      "label": "Key Skills Assessment",
-      "highlights": [
-        {
-          "role": "As Leader",
-          "items": [
-            {
-              "description": "Directed team of interaction and visual designers to create responsive solution to monitor human violations in real-time, minimizing bank’s regulatory risk to zero",
-              "project": "Barclays Capital client with Sapient"
-            },
-            {
-              "description": "Streamlined UX budget from $4.4M/yr to 1.75M/yr (-60.3%) while establishing a lean cross-functional design and front-end development capable of delivering effectively in an Agile environment",
-              "project": "Thomson Reuters"
-            },
-            {
-              "description": "Lead product design strategy effort for an Investment Management segment, collaborating with over 10 stakeholders to brainstorm and prioritize features, define navigation patterns, and propose user interface design guidelines and framework",
-              "project": "Thomson Financial"
-            }
-          ]
-        },
-        {
-          "role": "As Multidisciplinary Experience Designer",
-          "items": [
-            {
-              "description": "Improved website (lincolncenter.org) user interaction and usability, allowing better customer communication and marketing in online and offline channels, and increase online ticket sales, subscriptions, and other revenue sources",
-              "project": "Lincoln Center for the Performing Arts, as Consultant"
-            },
-            {
-              "description": "Led team to developed interaction strategies, interaction design, prototyping, and visual design for a multidimensional site - Geography, Language and Partner",
-              "project": "Net2Phone, Inc"
-            },
-            {
-              "description": "Architected, designed, and developed a front-end solution delivering thousands of co-branded web- sites and on-demand factsheet PDFs ",
-              "project": "TIAA-CREF client with NewRiver, Inc"
-            }
-          ]
-        }
-      ]
-    },
-    "timeline": {
-      "label": "Professional Experience",
-      "icon": "",
-      "p1": "User experience designer capable of establishing a creative environment for team members to show their talents, complement each other, and strive to achieve the right design solution with measurable results and accountability. A thorough understanding of contemporary methodologies, and a confident influence for small to medium sized teams to thrive in a fast paced, challenging environment while creating thoughtful, innovative good business solutions for the end user.",
-      "infographPhone1": "images/graph-timeline-skills_@2x.png",
-      "infographPhone2": "images/graph-timeline-companies_@2x.png",
-      "infographHi": "images/graph-timeline_@2x.png"
-    },
-    "education": {
-      "label": "Education",
-      "icon": "mdi-social-school",
-      "description": "Electrical Designer, State Center of Technology Ferreira Viana, Rio de Janeiro , Brazil"
     }
+  ],
+  "mains": [
+    {
+      "label": "Work Experience",
+      "type": "list",
+      "items" : [
+        {
+          "label" : "LEAP Legal Software, Australia",
+          "role" : "Software developer <i>(2019 March LEAPStar - Monthly reward for best employee)</i>",
+          "duration" : "2016 - Present",
+          "projects":[
+            {
+              "name": "Bookmarks Classification system",
+              "duration" : "2018 - Present",
+              "descriptions" : [
+                "Lead and responsible for designing and developing a web app that is capable of using ML-based classifier to assist thousands of bookmarks classification each week",
+                "Boost the productivity of bookmark classification by using NLP technologies and ML-based classifier (SVM) to assist the classification thus only smaller portion of bookmarks that requires human to go through",
+                "Using various front and back end technologies such as Node, Angular, Asp.Net Core and PostgreSQL to construct the app"
+              ]
+            },
+            {
+              "name": "Document Automation System Development and Innovation",
+              "duration" : "2017 - Present",
+              "descriptions" : [
+                "Lead and responsible for designing and developing LEAP's PDF Document Automation System. This system allows the LEAP to introduces new products in addition to Word Document Automation. Consequently, thousands of PDF precedents and documents are capable to be automated by LEAP",
+                "Optimize the code and design of the system. As the result, PDF automation system performs <i>10 times</i> better than the Word Document Automation System",
+                "Before I took it over, this project had started 1 year but not able to progress due to technology bottleneck. I spend about 3 months to make a breakthrough on the bottleneck and now the system had to go online"
+              ]
+            },
+            {
+              "name": "LEAP Document Automation core calculations and engine development",
+              "duration" : "2016 - 2017",
+              "descriptions" : [
+                "Responsible to develop core Document Automation system that using vanilla JS. Responsible for over thousands of core calculations development",
+                "This engine and calculations are the heart of the LEAP's document automation system. It is responsible for clients daily document creations and updates. The new engine went online smoothly without interruption"
+                
+              ]
+            },
+            {
+              "name": "Other project",
+              "duration" : "2016 - Present",
+              "descriptions" : [
+                "As the front developer, using Node and Angular4 and other Web technology to conver the VBA based document automation Plugin to JS based document plugin. New JS based document plugin boost the user experience and system performance",
+                "As the full stack developer design and develop various plugins according to requirements"
+              ]
+            }              
+          ]
+        },
+        {
+          "label" : "The University of Melbourne",
+          "role" : "Research Assistance",
+          "duration" : "2018",
+          "projects":[
+            {
+              "name": "Animal Offender Identification App",
+              "duration" : "1年",
+              "descriptions" : [
+                "As the member of E-Research in The University of Melbourne, I was responsible to design and develop an Android App and a Spring-based JAVA back end to identify offender in the field of animal protection",
+                "Leverage the mobility that Mobile App offers this project power it with Voice and Image recognition technology to help patrols to identify the Offenders",
+                "This project also forms as part of my Master thesis and achieved H1 in the end"
+              ]
+            }              
+          ]
+        },
+        {
+          "label" : "Cognology",
+          "role" : "Full Stack Web Developer",
+          "duration" : "2013 - 2016",
+          "projects":[
+            {
+              "name": "SAAS HR System",
+              "duration" : "2013 - 2016",
+              "descriptions" : [
+                "Responsible of using Asp.Net C#, AngularJs, SQL Server to develop various modules，Familiar with various Web Frameworks such as Angular and MVC",
+                "Using various testing techniques such as Selenium, VS-UnitTest to perform the app testing",
+                "Full stack developer in responding to the front, back and database end development"
+              ]
+            }              
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Education",
+      "type": "list",
+      "items" : [
+        {
+          "label" : "The University of Melbourne",
+          "role" : "Master of Science (Computer Science)",
+          "duration" : "2014 - 2018",
+          "descriptions" : [
+            "Part-time student to finish my study in Computer Science at The University of Melbourne, granted with Scholarship from the Department of Engineering. All the research project had achieved the highest grade of <strong>H1</strong>，published <i>A Mobile Application and Cloud Platform Supporting Research into Alcohol Consumption</i> paper on ICMHI2017",
+            "Main research focus in applied computing and concentrate of using Cloud, mobile and AI technology to in various fields and thus capable to changing the way people doing things and benefit the productivity boost from the newest computing technologies",
+            "Invited by the supervisor to join the E-Research group in The University of Melbourne, focus on apply computing",
+            "Study various non-research subjects mainly focus on AI, Machine Learning and Distributed System"
+          ]
+        },
+        {
+          "label" : "RMIT",
+          "role" : "Master of Computing",
+          "duration" : "2012 - 2013",
+          "descriptions" : [
+            "Study in Royal Melbourne Institute of Technology and achieved GPA of <strong>3.9/4.0</strong> ,top 10% in the deparment，invited to become a Golden Key member"
+          ]
+        },
+        {
+          "label" : "The University of Melbourne",
+          "role" : "Bachelor of Commerce(Accounting & Finance)",
+          "duration" : "2008 - 2010",
+          "descriptions" : [
+            "Graduated from the Bachelor of Commerce major in Accounting and Finance"
+          ]
+        }
+      ]
+    }
+  ],
+  "rest": {
+    "label": "关于这页",
+    "type": "text",
+    "items" : [
+      "This page was developed using a modern web development workflow approach that leverages",
+      "SoC principle to completely decouple the organization, style, interactive and content layers.",
+      "The tools below are part of this workflow."
+    ],
+    "icons" :[
+      {
+        "href": "http://angular.io/",
+        "title": "Angular 5 - As development framework",
+        "src": "assets/images/built_with_angular.png"
+      },
+      {
+        "href": "http://json.org/",
+        "title": "JSON - As content data layer",
+        "src": "assets/images/built_with_json2.png"
+      },
+      {
+        "href": "https://materializecss.com",
+        "title": "materialize - As style of content",
+        "src": "assets/images/built_with_materialize2.png"
+      }
+    ]
   }
+}
