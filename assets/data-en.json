@@ -96,11 +96,11 @@
         {
           "label" : "LEAP Legal Software, Australia",
           "role" : "Software developer <i>(2019 March LEAPStar - Monthly reward for best employee)</i>",
-          "duration" : "2016 - Present",
+          "duration" : "07/2016 - Present",
           "projects":[
             {
               "name": "Bookmarks Classification system",
-              "duration" : "2018 - Present",
+              "duration" : "11/2018 - Present",
               "descriptions" : [
                 "Lead and responsible for designing and developing a web app that is capable of using ML-based classifier to assist thousands of bookmarks classification each week",
                 "Boost the productivity of bookmark classification by using NLP technologies and ML-based classifier (SVM) to assist the classification thus only smaller portion of bookmarks that requires human to go through",
@@ -109,7 +109,7 @@
             },
             {
               "name": "Document Automation System Development and Innovation",
-              "duration" : "2017 - Present",
+              "duration" : "10/2017 - Present",
               "descriptions" : [
                 "Lead and responsible for designing and developing LEAP's PDF Document Automation System. This system allows the LEAP to introduces new products in addition to Word Document Automation. Thus, thousands of PDF precedents and documents are capable to be automated by LEAP now",
                 "Optimize the code and design of the system. As the result, PDF automation system performs <i>10 times</i> better than the Word Document Automation System",
@@ -118,7 +118,7 @@
             },
             {
               "name": "LEAP Document Automation core calculations and engine development",
-              "duration" : "2016 - 2017",
+              "duration" : "07/2016 - 02/2017",
               "descriptions" : [
                 "Responsible to develop core Document Automation system that using vanilla JS. Responsible for over thousands of core calculations development",
                 "This engine and calculations are the heart of the LEAP's document automation system. It is responsible for clients daily document creations and updates. The new engine went online smoothly without interruption"
@@ -127,7 +127,7 @@
             },
             {
               "name": "Other project",
-              "duration" : "2016 - Present",
+              "duration" : "07/2016 - Present",
               "descriptions" : [
                 "As the front end developer, using Node and Angular4 and other Web technology to convert the VBA based document automation plugin to JavaScripts based document plugin. New JavaScripts based document plugin boost the user experience and system performance",
                 "As the full stack developer design and develop various plugins according to requirements"
@@ -138,11 +138,11 @@
         {
           "label" : "The University of Melbourne",
           "role" : "Research Assistance",
-          "duration" : "2018",
+          "duration" : "03/2018 - 12/2018",
           "projects":[
             {
               "name": "Animal Offender Identification App",
-              "duration" : "1 year",
+              "duration" : "03/2018 - 12/2018",
               "descriptions" : [
                 "As the member of E-Research in The University of Melbourne, I was responsible to design and develop an Android App and a Spring-based JAVA back end to identify offender in the field of animal protection",
                 "Leverage the mobility that Mobile App offers this project power it with Voice and Image recognition technology to help patrols to identify the Offenders",
@@ -154,11 +154,11 @@
         {
           "label" : "Cognology",
           "role" : "Full Stack Web Developer",
-          "duration" : "2013 - 2016",
+          "duration" : "12/2013 - 03/2016",
           "projects":[
             {
               "name": "SAAS HR System",
-              "duration" : "2013 - 2016",
+              "duration" : "12/2013 - 03/2016",
               "descriptions" : [
                 "Responsible of using Asp.Net C#, AngularJs, SQL Server to develop various modules，Familiar with various Web Frameworks such as Angular and MVC",
                 "Using various testing techniques such as Selenium, VS-UnitTest to perform the app testing",
@@ -176,7 +176,7 @@
         {
           "label" : "The University of Melbourne",
           "role" : "Master of Science (Computer Science)",
-          "duration" : "2014 - 2018",
+          "duration" : "06/2014 - 12/2018",
           "descriptions" : [
             "Part-time student to finish my study in Computer Science at The University of Melbourne, granted with Scholarship from the Department of Engineering. All the research projects had achieved the highest grade of <strong>H1</strong>, published paper <i>A Mobile Application and Cloud Platform Supporting Research into Alcohol Consumption</i> on ICMHI2017",
             "Main research focus in applied computing and concentrate of using Cloud, mobile and AI technology in various fields and thus capable of changing the way people doing things and allow them to be benefit by the leading computing technologies",
@@ -187,7 +187,7 @@
         {
           "label" : "RMIT",
           "role" : "Master of Computing",
-          "duration" : "2012 - 2013",
+          "duration" : "06/2012 - 12/2013",
           "descriptions" : [
             "Study in Royal Melbourne Institute of Technology and achieved GPA of <strong>3.9/4.0</strong> ,top 10% in the deparment, invited to become a Golden Key member"
           ]
@@ -195,7 +195,7 @@
         {
           "label" : "The University of Melbourne",
           "role" : "Bachelor of Commerce(Accounting & Finance)",
-          "duration" : "2008 - 2010",
+          "duration" : "03/2008 - 12/2010",
           "descriptions" : [
             "Graduated from the Bachelor of Commerce major in Accounting and Finance"
           ]
