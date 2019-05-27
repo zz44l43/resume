@@ -11,6 +11,7 @@ import * as html2canvas from 'html2canvas';
   })
   export class HomeComponent{  
     private _jsonURL:string = "assets/data-en.json";
+    // private _jsonURL:string = "assets/data.json";
     private _model: any;
     get model():any{
       return this._model;

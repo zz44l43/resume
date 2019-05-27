@@ -96,11 +96,11 @@
           {
             "label" : "LEAP Legal Software, Australia",
             "role" : "程序开发员 <i>(2019三月份最佳员工)</i>",
-            "duration" : "2016 - 至今",
+            "duration" : "07/2016 - 至今",
             "projects":[
               {
                 "name": "内部文档更新分类系统",
-                "duration" : "2018 - 至今",
+                "duration" : "11/2018 - 至今",
                 "descriptions" : [
                   "负责设计和开发一套基于机器学习的智能Web系统，帮助公司内部文档的更新分类。",
                   "利用NLP和机器学习的技术，让机器来帮助工作人员智能的进行文档每周的分类与更新，提高了至少1倍的工作效率。",
@@ -109,7 +109,7 @@
               },
               {
                 "name": "文档自动化系统创新与革新",
-                "duration" : "2017 - 至今",
+                "duration" : "10/2017 - 至今",
                 "descriptions" : [
                   "作为核心开发成员，负责带领研究，设计和开发一套适用于LEAP公司的PDF文档自动化系统，拓展了公司在各个国家的业务范围,让上万本的具有法律效应的PDF文档从此纳入公司的自动化目录，至此之后公司的自动化业务不再仅限于Word文档格式。",
                   "优化代码和构架，提升自动化速度与效率，速度可比同公司Word自动化系统提升<strong>10倍</strong>。",
@@ -118,7 +118,7 @@
               },
               {
                 "name": "文档自动化核心引擎开发",
-                "duration" : "2016 - 2017",
+                "duration" : "07/2016 - 02/2017",
                 "descriptions" : [
                   "作为主要开发员之一，负责公司文档自动化的核心引擎的开发，上架及后续迭代，维护的工作，利用原生JavaScripts完全重构了核心引擎。",
                   "该引擎是LEAP公司所有自动化业务的核心，每日负责着全澳上万不同法律文档的自动化进程，新引擎上线后，公司业务正常运行，客户没有受到任何影响。"
@@ -126,7 +126,7 @@
               },
               {
                 "name": "其它项目",
-                "duration" : "2016 - 至今",
+                "duration" : "07/2016 - 至今",
                 "descriptions" : [
                   "作为前端开发员，负责使用Node，Angular4以及其它web技术更换以VBA为主要插件的Word文档自动化技术，新的技术大大提升了人机交流的体验与运行速度。",
                   "作为全栈开发员，根据业务需求分析，负责使用Web的全栈技术，开发和设计各项业务插件。"
@@ -138,11 +138,11 @@
           {
             "label" : "The University of Melbourne (墨尔本大学)",
             "role" : "研究助手",
-            "duration" : "2018",
+            "duration" : "03/2018 - 12/2018",
             "projects":[
               {
                 "name": "犯罪分子智能识别系统",
-                "duration" : "1年",
+                "duration" : "03/2018 - 12/2018",
                 "descriptions" : [
                   "墨尔本大学E-Research的成员，作为该项目的主要负责人，带领一个5人的团队，进行程序的研究，设计和Android移动端以及后端Java的开发。",
                   "该项目致力于应用最新的声音与图像识别功能辅以手机应用的便携性，帮助执法人员随时随地，识别出有过案底的罪犯。",
@@ -154,11 +154,11 @@
           {
             "label" : "Cognology",
             "role" : "全栈Web开发员",
-            "duration" : "2013 - 2016",
+            "duration" : "12/2013 - 03/2016",
             "projects":[
               {
                 "name": "SAAS HR系统开发",
-                "duration" : "2013 - 2016",
+                "duration" : "12/2013 - 03/2016",
                 "descriptions" : [
                   "作为开发员利用Asp.Net C#, AngularJs, SQL Server等技术根据需求开发多项业务模块，熟练掌握各类Web开发框架，熟悉MVC模型。",
                   "利用Selenium, VS-UnitTest等工具对产品进行多方面测试，保证代码的可靠和安全。",
@@ -176,7 +176,7 @@
           {
             "label" : "墨尔本大学",
             "role" : "计算机科学研究生 <a href='https://study.unimelb.edu.au/find/courses/graduate/master-of-science-computer-science/'><i>(Master of Science (Computer Science))</i></a>",
-            "duration" : "2014 - 2018",
+            "duration" : "06/2014 - 12/2018",
             "descriptions" : [
               "工作之余在墨大攻读计算机研究生，获得学院奖学金，期间所有研究项目均获得<strong>H1</strong>的好成绩，并且在2017年发表了 <i>A Mobile Application and Cloud Platform Supporting Research into Alcohol Consumption</i> 文章于ICMHI2017上。",
               "主要研究方向为计算机科学的应用，主要集中在移动式，云端和Ai技术在各项研究领域的应用，研究如何利用最先进的计算机技术帮助不同研究领域的人们提高效率，改变他们做事情的方式。",
@@ -187,7 +187,7 @@
           {
             "label" : "墨尔本皇家理工大学",
             "role" : "计算机授课型硕士",
-            "duration" : "2012 - 2013",
+            "duration" : "06/2012 - 12/2013",
             "descriptions" : [
               "攻读于墨尔本皇家理工大学，在校期间取得了<strong>3.9/4.0</strong> 的GPA,成绩位于学院前10%，获得Golden Key成员邀请。"
             ]
@@ -195,7 +195,7 @@
           {
             "label" : "墨尔本大学",
             "role" : "会计与金融本科 <a href='https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/'><i>(Bachelor of Commerce(Accounting & Finance))</i></a>",
-            "duration" : "2008 - 2010",
+            "duration" : "03/2008 - 12/2010",
             "descriptions" : [
               "本科毕业于墨尔本大学商学院。"
             ]

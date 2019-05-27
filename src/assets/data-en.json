@@ -8,17 +8,17 @@
   "name": "Zheng Zhi (George)",
   "title": "Software developer",
   "photo": "assets/images/self.jpg",
-  "sides":[
+  "sides": [
     {
       "label": "Summary",
       "icon": "person_outline",
       "type": "text",
-      "items":[
+      "items": [
         "Extensive software development experience and currently working at <a href='https://www.leaplegalsoftware.com/'><i>LEAP Legal Software Australia</i></a> since 2016. Involved in numerous software development projects such as Australian wide's Documents & Precedents Automation, LEAP-Plugins development and Internal software development",
-        "More than 5 years of software development experience since 2013. Familiar with a number of programming languages such as C#, JavaScripts, SQL, Java, and Python as well as a number of frameworks such as Angular, MVC and Entity Framework",
+        "More than five years of software development experience since 2013. Familiar with several programming languages such as C#, JavaScripts, SQL, Java, and Python as well as many frameworks such as Angular, MVC and Entity Framework",
         "Experience and involved with the whole development cycle from design to deployment. Passion in learning new technologies and keen to put them in production and solve the real world problems",
         "Familiar with the Git and version control. Always looking for and adopting best practices when programming",
-        "Outside of the work, I'm interest in learning new technologies and involve in non-work related projects to try out"
+        "Outside of the work, I'm interested in learning new technologies and involve in non-work related projects to try out."
       ]
     },
     {
@@ -60,7 +60,7 @@
       "label": "Skills",
       "icon": "format_list_bulleted",
       "type": "slider",
-      "items":[
+      "items": [
         {
           "label": "JavaScript / Angular / Node",
           "level": "95%"
@@ -92,79 +92,129 @@
     {
       "label": "Work Experience",
       "type": "list",
-      "items" : [
+      "items": [
         {
-          "label" : "LEAP Legal Software, Australia",
-          "role" : "Software developer <i>(2019 March LEAPStar - Monthly reward for best employee)</i>",
-          "duration" : "2016 - Present",
-          "projects":[
+          "label": "LEAP Legal Software, Australia",
+          "role": "Software developer <i>(2019 March LEAPStar - Monthly reward for best employee)</i>",
+          "duration": "07/2016 - Present",
+          "projects": [
             {
               "name": "Bookmarks Classification system",
-              "duration" : "2018 - Present",
-              "descriptions" : [
+              "duration": "11/2018 - Present",
+              "descriptions": [
                 "Lead and responsible for designing and developing a web app that is capable of using ML-based classifier to assist thousands of bookmarks classification each week",
-                "Boost the productivity of bookmark classification by using NLP technologies and ML-based classifier (SVM) to assist the classification thus only smaller portion of bookmarks that requires human to go through",
-                "Using various front and back end technologies such as Node, Angular, Asp.Net Core and PostgreSQL to construct the app"
+                "Boost the productivity of bookmark classification by using NLP technologies and ML-based classifier (SVM) to assist the classification thus the only smaller portion of bookmarks that requires human to go through",
+                "Using various front and back end technologies such as Angular 6 with Redux, Asp.Net Core2 API, and PostgreSQL to construct the app."
+              ]
+            },
+            {
+              "name": "LEAP Matter Information Central",
+              "duration": "11/2018 - Present",
+              "descriptions": [
+                "Lead and responsible for designing and developing a web app that serves as a tool for LEAP's Matter Management. Thus provide the analytical overview of Matters and other insightful information",
+                "To present the analytical information to the user through various data-visualization technologies and hence hope to become the go-to tool for the user to manage their matter created in the system",
+                "Using various front and back end technologies such as Angular 7 with Redux, Asp.Net Core2 for API, and DynamoDB to construct the app."
               ]
             },
             {
               "name": "Document Automation System Development and Innovation",
-              "duration" : "2017 - Present",
-              "descriptions" : [
-                "Lead and responsible for designing and developing LEAP's PDF Document Automation System. This system allows the LEAP to introduces new products in addition to Word Document Automation. Thus, thousands of PDF precedents and documents are capable to be automated by LEAP now",
+              "duration": "10/2017 - Present",
+              "descriptions": [
+                "Lead and responsible for designing and developing the LEAP's PDF Document Automation System. This system allows the LEAP to introduces new products in addition to Word Document Automation. Thus, thousands of PDF precedents and documents are capable of being automated by LEAP now",
                 "Optimize the code and design of the system. As the result, PDF automation system performs <i>10 times</i> better than the Word Document Automation System",
-                "Before I took it over, this project had started 1 year but not able to progress due to technology bottleneck. I spend about 3 months to make a breakthrough on the bottleneck and now the system had gone online in production"
+                "Before I took it over, this project had started one year but not able to progress due to technology bottleneck. I spend about three months to make a breakthrough on the bottleneck, and now the system had gone online in production."
               ]
             },
             {
               "name": "LEAP Document Automation core calculations and engine development",
-              "duration" : "2016 - 2017",
-              "descriptions" : [
+              "duration": "07/2016 - 02/2017",
+              "descriptions": [
                 "Responsible to develop core Document Automation system that using vanilla JS. Responsible for over thousands of core calculations development",
                 "This engine and calculations are the heart of the LEAP's document automation system. It is responsible for clients daily document creations and updates. The new engine went online smoothly without interruption"
-                
               ]
             },
             {
               "name": "Other project",
-              "duration" : "2016 - Present",
-              "descriptions" : [
+              "duration": "07/2016 - Present",
+              "descriptions": [
                 "As the front end developer, using Node and Angular4 and other Web technology to convert the VBA based document automation plugin to JavaScripts based document plugin. New JavaScripts based document plugin boost the user experience and system performance",
-                "As the full stack developer design and develop various plugins according to requirements"
+                "As the full stack developer design and develop various plugins according to requirements."
               ]
-            }              
+            }
           ]
         },
         {
-          "label" : "The University of Melbourne",
-          "role" : "Research Assistance",
-          "duration" : "2018",
-          "projects":[
+          "label": "The University of Melbourne",
+          "role": "Research Assistance",
+          "duration": "03/2018 - 12/2018",
+          "projects": [
             {
               "name": "Animal Offender Identification App",
-              "duration" : "1 year",
-              "descriptions" : [
-                "As the member of E-Research in The University of Melbourne, I was responsible to design and develop an Android App and a Spring-based JAVA back end to identify offender in the field of animal protection",
+              "duration": "03/2018 - 12/2018",
+              "descriptions": [
+                "As the member of E-Research in The University of Melbourne, I was responsible for designing and developing an Android App and a Spring-based JAVA back end to identify the offender in the field of animal protection",
                 "Leverage the mobility that Mobile App offers this project power it with Voice and Image recognition technology to help patrols to identify the Offenders",
-                "This project also forms as part of my Master thesis and achieved H1 in the end"
+                "This project also formed as part of my Master thesis and achieved H1 in the end."
               ]
-            }              
+            }
           ]
         },
         {
-          "label" : "Cognology",
-          "role" : "Full Stack Web Developer",
-          "duration" : "2013 - 2016",
-          "projects":[
+          "label": "Cognology",
+          "role": "Full Stack Web Developer",
+          "duration": "12/2013 - 03/2016",
+          "projects": [
             {
               "name": "SAAS HR System",
-              "duration" : "2013 - 2016",
-              "descriptions" : [
-                "Responsible of using Asp.Net C#, AngularJs, SQL Server to develop various modules，Familiar with various Web Frameworks such as Angular and MVC",
+              "duration": "12/2013 - 03/2016",
+              "descriptions": [
+                "Responsible for using Asp.Net C#, AngularJs, SQL Server to develop various modules，Familiar with various Web Frameworks such as Angular and MVC",
                 "Using various testing techniques such as Selenium, VS-UnitTest to perform the app testing",
-                "Full stack developer in responding to the front, back and database end development"
+                "Full stack developer in responding to the front, back, and database end development"
               ]
-            }              
+            }
+          ]
+        },
+        {
+          "label": "3CW Radio Station Pty Ltd",
+          "role": "Account Assistance",
+          "duration": "09/2011 - 05/2012",
+          "projects": [
+            {
+              "name": "Assistance in Account Receivable, Payable and Bank Reconciliation",
+              "duration": "09/2011 - 05/2012",
+              "descriptions": [
+                "Responsible for assisting daily accounting tasks which involved tasks in Account Receivable, Account Payable, and Bank Reconciliation."
+              ]
+            }
+          ]
+        },
+        {
+          "label": "FuJian Footwear Pty Ltd",
+          "role": "Admin",
+          "duration": "04/2011 - 08/2011",
+          "projects": [
+            {
+              "name": "Office Admin",
+              "duration": "04/2011 - 08/2011",
+              "descriptions": [
+                "Responsible for assisting daily office admin task"
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Skyland Real Estate",
+          "role": "Sales Assistance",
+          "duration": "01/2011 - 03/2011",
+          "projects": [
+            {
+              "name": "Sale Assistance",
+              "duration": "01/2011 - 03/2011",
+              "descriptions": [
+                "Responsible for assisting daily real estate consultation"
+              ]
+            }
           ]
         }
       ]
@@ -172,31 +222,31 @@
     {
       "label": "Education",
       "type": "list",
-      "items" : [
+      "items": [
         {
-          "label" : "The University of Melbourne",
-          "role" : "Master of Science (Computer Science)",
-          "duration" : "2014 - 2018",
-          "descriptions" : [
+          "label": "The University of Melbourne",
+          "role": "Master of Science (Computer Science)",
+          "duration": "06/2014 - 12/2018",
+          "descriptions": [
             "Part-time student to finish my study in Computer Science at The University of Melbourne, granted with Scholarship from the Department of Engineering. All the research projects had achieved the highest grade of <strong>H1</strong>, published paper <i>A Mobile Application and Cloud Platform Supporting Research into Alcohol Consumption</i> on ICMHI2017",
-            "Main research focus in applied computing and concentrate of using Cloud, mobile and AI technology in various fields and thus capable of changing the way people doing things and allow them to be benefit by the leading computing technologies",
+            "Main research focus in applied computing and concentrate of using Cloud, mobile and AI technology in various fields and thus capable of changing the way people doing things and allow them to be benefited by the leading computing technologies",
             "Invited by the supervisor to join the E-Research group in The University of Melbourne, focus on apply computing",
-            "Study various non-research subjects mainly focus on AI, Machine Learning and Distributed System"
+            "Study various non-research subjects mainly focus on AI, Machine Learning and Distributed Systems."
           ]
         },
         {
-          "label" : "RMIT",
-          "role" : "Master of Computing",
-          "duration" : "2012 - 2013",
-          "descriptions" : [
+          "label": "RMIT",
+          "role": "Master of Computing",
+          "duration": "06/2012 - 12/2013",
+          "descriptions": [
             "Study in Royal Melbourne Institute of Technology and achieved GPA of <strong>3.9/4.0</strong> ,top 10% in the deparment, invited to become a Golden Key member"
           ]
         },
         {
-          "label" : "The University of Melbourne",
-          "role" : "Bachelor of Commerce(Accounting & Finance)",
-          "duration" : "2008 - 2010",
-          "descriptions" : [
+          "label": "The University of Melbourne",
+          "role": "Bachelor of Commerce(Accounting & Finance)",
+          "duration": "03/2008 - 12/2010",
+          "descriptions": [
             "Graduated from the Bachelor of Commerce major in Accounting and Finance"
           ]
         }
@@ -206,12 +256,12 @@
   "rest": {
     "label": "关于这页",
     "type": "text",
-    "items" : [
+    "items": [
       "This page was developed using a modern web development workflow approach that leverages",
       "SoC principle to completely decouple the organization, style, interactive and content layers.",
       "The tools below are part of this workflow."
     ],
-    "icons" :[
+    "icons": [
       {
         "href": "http://angular.io/",
         "title": "Angular 5 - As development framework",

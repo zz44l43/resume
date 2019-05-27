@@ -1,6 +1,6 @@
 // Side-Nav Height Variables
 
-$side-height: 2250px;
+$side-height: 2770px;
 
 // Color Variables
 
@@ -222,7 +222,11 @@ html, body {
     #main-panel .card-panel h4 {
 		font-weight: 500;
 		font-size: 160%;
-    }
+		}
+		// #main-panel .card-panel h4 {
+		// 	font-weight: 800;
+		// 	font-size: 160%;
+		// }
     #main-panel .card-panel h5.role {
 		font-size: 100%;
 		color: lighten($primary-color, 40);
@@ -270,6 +274,11 @@ html, body {
 		font-weight: 400;
 		color: lighten($dark-grey, 20);
 	}
+
+	// .work-company {
+	// 	font-weight: 700;
+	// 	color: lighten($dark-grey, 20);
+	// }
 
 	.description{
 		margin:0;
