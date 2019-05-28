@@ -162,11 +162,11 @@
         {
           "label": "Cognology",
           "role": "Full Stack Web Developer",
-          "duration": "12/2013 - 03/2016",
+          "duration": "12/2013 - 05/2016",
           "projects": [
             {
               "name": "SAAS HR System",
-              "duration": "12/2013 - 03/2016",
+              "duration": "12/2013 - 06/2016",
               "descriptions": [
                 "Responsible for using Asp.Net C#, AngularJs, SQL Server to develop various modules，Familiar with various Web Frameworks such as Angular and MVC",
                 "Using various testing techniques such as Selenium, VS-UnitTest to perform the app testing",
