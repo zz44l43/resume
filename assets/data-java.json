@@ -104,7 +104,7 @@
                 "descriptions" : [
                   "负责设计和开发一套基于机器学习的智能Web系统，帮助公司内部文档的更新分类。",
                   "利用NLP和机器学习的技术，让机器来帮助工作人员智能的进行文档每周的分类与更新，提高了至少1倍的工作效率。",
-                  "利用Node,Angular5, Asp.Net Core2 和 Postgresql 搭建了数据收集软件，从此每周上千不同文档的更新与分类摆脱了手动的方式，也为利用机器学习的分类方法奠定了良好的基础。"
+                  "利用Angular5, Asp.Net Core2 和 Postgresql 搭建了数据收集软件，从此每周上千不同文档的更新与分类摆脱了手动的方式，也为利用机器学习的分类方法奠定了良好的基础。"
                 ]
               },
               {
@@ -112,7 +112,7 @@
                 "duration": "11/2018 - Present",
                 "descriptions": [
                   "作为核心人员负责设计和开发一套独立的Matter系统，提供分析与管理Matter。",
-                  "利用Angular 7为前端的主要框架，Asp.Net c# Web Api2为后端框架结合AWS DynamoDB为用户提供分析与操作Matter的平台。",
+                  "利用Angular 7和Redux为前端的主要框架，Asp.Net c# Web Api2为后端框架（Service-oriented architecture)结合AWS DynamoDB为用户提供分析与操作Matter的平台 - 前后端均采取Service-Oriented的结构",
                   "该项目还属于设计和开发阶段，旨在运用可视化和云技术搭建管理与分析的平台。"
                 ]
               },
@@ -121,7 +121,7 @@
                 "duration" : "10/2017 - 至今",
                 "descriptions" : [
                   "作为核心开发成员，负责带领研究，设计和开发一套适用于LEAP公司的PDF文档自动化系统，拓展了公司在各个国家的业务范围,让上万本的具有法律效应的PDF文档从此纳入公司的自动化目录，至此之后公司的自动化业务不再仅限于Word文档格式。",
-                  "以JavaScript和C#为主，优化代码和构架，提升自动化速度与效率，速度可比同公司Word自动化系统提升<strong>10倍</strong>。",
+                  "以前端JavaScript和后端C#为主，优化代码和构架，提升自动化速度与效率，速度可比同公司Word自动化系统提升<strong>10倍</strong>。",
                   "该项目在我接手之前，曾拥有1年的研发期，无奈最后无法突破技术瓶颈以失败告终。在我接手后，3个月内攻破瓶颈，促使该项目得以延续，系统现在已经正式上线，进入迭代与维护状态。"
                 ]
               },
@@ -146,7 +146,7 @@
                 "duration" : "03/2018 - 12/2018",
                 "descriptions" : [
                   "墨尔本大学E-Research的成员，同时也是研究生3大研究项目之一，作为该项目的主要负责人，带领一个5人的团队，进行程序的研究，设计和Android移动端以及后端Java的开发。",
-                  "负责利用Java Spring Framework/Spring boot作为后端Restfull Api及系统的开发和设计，以及前端Adnroid Java移动端的开发和设计",
+                  "负责利用Java Spring Framework/Spring boot作为后端Restfull Api及系统的开发和设计，以及前端Adnroid Java移动端的开发和设计 - 前后端均采取Service-Oriented的结构",
                   "该项目致力于应用最新的声音与图像识别功能辅以手机应用的便携性，帮助执法人员随时随地，识别出有过案底的罪犯。",
                   "该项目作为墨大研究生毕业论文的一部分，成功取得H1的好成绩，该项目目前已经进入最后测试和迭代阶段。"
                 ]
@@ -162,8 +162,8 @@
                 "name": "搭建Alcohol Consumption 的数据收集和分析平台",
                 "duration" : "06/2015 - 06/2016",
                 "descriptions" : [
-                  "研究生3大研究项目之一，主要负责设计， 开发Android的移动端和后端Java Spring Boost Api",
-                  "负责利用Java Spring Framework/Spring boot作为后端Restfull Api的开发，以及Android Java移动端的开发",
+                  "研究生3大研究项目之一，主要负责使用Java设计， 开发Android的移动端和后端Spring Boot - Restful Api",
+                  "负责利用Java Spring Framework/Spring boot作为后端Restfull Api的开发，以及Android Java移动端的开发 - 前后端均采取Service-Oriented的结构",
                   "该项目致力于应用云与移动端的便携性来负责数据的收集和分析，以帮助 Alcohol（酒精） 医学领域的研究和发展。",
                   "该项目作为墨大研究生毕业论文的一部分，成功取得H1的好成绩，Android移动端程序在Google Play上线，文章发表在ICMHI2017上 <i>A Mobile Application and Cloud Platform Supporting Research into Alcohol Consumption</i>。"
                 ]
@@ -172,7 +172,7 @@
                 "name": "搭建Alzheimer disease 的数据据收集和分析平台",
                 "duration" : "06/2017 - 12/2018",
                 "descriptions" : [
-                  "研究生3大研究项目之一，主要负责设计， 开发Android和IOS的移动端和后端Java Spring Boost Api",
+                  "研究生3大研究项目之一，主要负责设计， 开发Android和IOS的移动端和后端Java Spring Boot Api",
                   "负责利用Java Spring Framework/Spring boot作为后端Restfull Api的开发。利用Angular NativeScripts来开发IOS和Android移动端的程序",
                   "该项目致力于应用云与移动端的便携性来负责数据的收集和分析，以帮助 Alzheimer（老年痴呆）医学领域的研究和发展。",
                   "该项目作为墨大研究生毕业论文的一部分，成功取得H1的好成绩。"
