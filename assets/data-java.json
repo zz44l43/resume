@@ -109,7 +109,7 @@
             },
             {
               "name": "LEAP Matter管理系统",
-              "duration": "11/2018 - Present",
+              "duration": "11/2018 - 至今",
               "descriptions": [
                 "作为核心人员负责设计和开发一套独立的Matter系统，提供分析与管理Matter。",
                 "利用Angular 7和Redux为前端的主要框架，Asp.Net c# Web Api2为后端框架（Service-oriented architecture)结合AWS DynamoDB为用户提供分析与操作Matter的平台 - 前后端均采取Service-Oriented的结构",
@@ -118,7 +118,7 @@
             },
             {
               "name": "文档自动化系统创新与革新",
-              "duration": "10/2017 - 至今",
+              "duration": "10/2017 - 02/2019",
               "descriptions": [
                 "作为核心开发成员，负责带领研究，设计和开发一套适用于LEAP公司的PDF文档自动化系统，拓展了公司在各个国家的业务范围,让上万本的具有法律效应的PDF文档从此纳入公司的自动化目录，至此之后公司的自动化业务不再仅限于Word文档格式。",
                 "以前端JavaScript和后端C#为主，优化代码和构架，提升自动化速度与效率，速度可比同公司Word自动化系统提升<strong>10倍</strong>。",
