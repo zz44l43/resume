@@ -177,43 +177,17 @@
           ]
         },
         {
-          "label": "3CW Radio Station Pty Ltd",
-          "role": "Account Assistance",
-          "duration": "09/2011 - 05/2012",
+          "label": "Cognology",
+          "role": "Full Stack Web Developer",
+          "duration": "12/2013 - 05/2016",
           "projects": [
             {
-              "name": "Assistance in Account Receivable, Payable and Bank Reconciliation",
-              "duration": "09/2011 - 05/2012",
+              "name": "SAAS HR System",
+              "duration": "12/2013 - 03/2016",
               "descriptions": [
-                "Responsible for assisting daily accounting tasks which involved tasks in Account Receivable, Account Payable, and Bank Reconciliation."
-              ]
-            }
-          ]
-        },
-        {
-          "label": "FuJian Footwear Pty Ltd",
-          "role": "Admin",
-          "duration": "04/2011 - 08/2011",
-          "projects": [
-            {
-              "name": "Office Admin",
-              "duration": "04/2011 - 08/2011",
-              "descriptions": [
-                "Responsible for assisting daily office admin task"
-              ]
-            }
-          ]
-        },
-        {
-          "label": "Skyland Real Estate",
-          "role": "Sales Assistance",
-          "duration": "01/2011 - 03/2011",
-          "projects": [
-            {
-              "name": "Sale Assistance",
-              "duration": "01/2011 - 03/2011",
-              "descriptions": [
-                "Responsible for assisting daily real estate consultation"
+                "Responsible for using Asp.Net C#, AngularJs, SQL Server to develop various modules，Familiar with various Web Frameworks such as Angular and MVC",
+                "Using various testing techniques such as Selenium, VS-UnitTest to perform the app testing",
+                "Full stack developer in responding to the front, back, and database end development"
               ]
             }
           ]

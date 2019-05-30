@@ -186,7 +186,7 @@
           "projects": [
             {
               "name": "SAAS HR系统开发",
-              "duration": "12/2013 - 02/2016",
+              "duration": "12/2013 - 03/2016",
               "descriptions": [
                 "作为开发员利用Asp.Net C#, AngularJs, SQL Server等技术根据需求开发多项业务模块，熟练掌握各类Web开发框架，熟悉MVC模型。",
                 "利用Selenium, VS-UnitTest等工具对产品进行BDD风格的多方面测试，利用TDD保证代码的可靠和安全。",
