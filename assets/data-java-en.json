@@ -105,25 +105,26 @@
                             "name": "LEAP Matter Information Central",
                             "duration": "11/2018 - Present",
                             "descriptions": [
-                                "Lead and responsible for designing and developing a web app that serves as a tool for LEAP's Matter Management. Thus provide the analytical overview of Matters and other insightful information",
-                                "To present the analytical information to the user through various data-visualization technologies and hence hope to become the go-to tool for the user to manage their matter created in the system",
-                                "Using various front and back end technologies such as Angular 7 with Redux, Asp.Net Core2 for API, and DynamoDB to construct the app."
+                                "Lead and responsible for designing and developing a web app that serves as a tool for LEAP's Matter Management. Thus provide an analytical overview of Matters along with other Matter automation tools",
+                                "Implement a front end app by using Angular 7 with Redux along with HTML5 and CSS. Hosted on AWS S3 with CloudFront",
+                                "Implement a back-end API service by using C# with ASP.Net Core 2 and assist with the integration with AWS DynamoDB.",
+                                "Participate in Docker the back-end image and hosted it on AWS ECS."
                             ]
                         },
                         {
                             "name": "Document Automation System Development and Innovation",
-                            "duration": "10/2017 - Present",
+                            "duration": "10/2017 - 03/2019",
                             "descriptions": [
                                 "Lead and responsible for designing and developing the LEAP's PDF Document Automation System. This system allows the LEAP to introduces new products in addition to Word Document Automation. Thus, thousands of PDF precedents and documents are capable of being automated by LEAP now",
-                                "Optimize the code and design of the system. As the result, PDF automation system performs <i>10 times</i> better than the Word Document Automation System",
-                                "Before I took it over, this project had started one year but not able to progress due to technology bottleneck. I spend about three months to make a breakthrough on the bottleneck, and now the system had gone online in production."
+                                "Develop a front-end automation app by using JavaScript mainly ES5 as the front-end automation platform",
+                                "Develop a back-end automation app by using ASP.NET C# mainly for RestFul Data communication."
                             ]
                         },
                         {
                             "name": "Other project",
                             "duration": "07/2016 - Present",
                             "descriptions": [
-                                "As the front end developer, using Node and Angular4 and other Web technology to convert the VBA based document automation plugin to JavaScripts based document plugin. New JavaScripts based document plugin boost the user experience and system performance",
+                                "As the front end developer, using Node and Angular4 and other Web technology such as CSS and HTML5 to convert the VBA based document automation plugin to JavaScripts based document plugin. New JavaScripts based document plugin boost the user experience and system performance",
                                 "As the full stack developer design and develop various plugins according to requirements."
                             ]
                         }
@@ -137,7 +138,7 @@
                         "name": "Animal Offender Identification App",
                         "duration": "03/2018 - 12/2018",
                         "descriptions": [
-                            "As the member of E-Research in The University of Melbourne, one of the research project for my Master thesis, I was responsible for designing and developing an Android App and a Spring-Boot JAVA back end to identify the offender in the field of animal protection",
+                            "As the member of E-Research in The University of Melbourne, one of the research projects for my Master thesis, I was responsible for designing and developing an Android App and a Spring-Boot JAVA back end to identify the offender in the field of animal protection",
                             "Leverage the mobility that Mobile App offers this project power it with Voice and Image recognition technology to help patrols to identify the Offenders",
                             "This project also formed as part of my Master thesis and achieved H1 in the end."
                         ]
@@ -175,9 +176,9 @@
                         "name": "SAAS HR System",
                         "duration": "12/2013 - 03/2016",
                         "descriptions": [
-                            "Responsible for using Asp.Net C#, AngularJs, SQL Server to develop various modules，Familiar with various Web Frameworks such as Angular and MVC",
+                            "Responsible for using Asp.Net C#, AngularJs, MSSQL Server to develop various business modules，Familiar with various Web Frameworks such as Angular and WebApi",
                             "Using various testing techniques such as Selenium, VS-UnitTest to perform the app testing",
-                            "Full stack developer in responding to the front, back, and database end development"
+                            "Full stack developer in responding to the front, back, and database development."
                         ]
                     }]
                 }
@@ -203,6 +204,14 @@
                     "duration": "06/2012 - 12/2013",
                     "descriptions": [
                         "Study in Royal Melbourne Institute of Technology and achieved GPA of <strong>3.9/4.0</strong> ,top 10% in the deparment, invited to become a Golden Key member"
+                    ]
+                },
+                {
+                    "label": "RMIT",
+                    "role": "Master of Business Information Technology",
+                    "duration": "03/2010 - 06/2012",
+                    "descriptions": [
+                        "Study Business Information Technology in Royal Melbourne Institute of Technology."
                     ]
                 },
                 {
