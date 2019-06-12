@@ -97,8 +97,8 @@
                             "duration": "11/2018 - 至今",
                             "descriptions": [
                                 "项目技术: Angular7, Redux, TypeScripts, BootStrap CSS, HTML5, .NET Core 2.2 C# WebApi, PostgresSql, Python",
-                                "主动提出负责并设计和开发一套基于机器学习的智能Web系统，帮助公司内部文档的更新分类。",
-                                "项目技术: 使用Angular7 + Redux为前端框架结合以Bootstrap为主的css框架和HTML5快速开发并上线了前端App。",
+                                "主动提出并设计和开发一套基于机器学习的智能Web系统，帮助公司内部文档的更新分类。",
+                                "使用Angular7 + Redux为前端框架结合以Bootstrap为主的css框架和HTML5快速开发并上线了前端App。",
                                 "使用.Net Core2 和 Postgresql 搭建了后端Api结合Python为主的分类系统，实现了分类系统的数据收集与用户交互。"
                             ]
                         },
