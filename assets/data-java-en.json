@@ -145,30 +145,6 @@
                     }]
                 },
                 {
-                    "label": "The University of Melbourne",
-                    "role": "Research projects from Master of Scienec (Computer Science) ",
-                    "duration": "03/2018 - 12/2018",
-                    "projects": [{
-                            "name": "Mobile Applicaiton and Cloud Platform to support research in Alcohol Consumption",
-                            "duration": "06/2015 - 06/2016",
-                            "descriptions": [
-                                "One of three research projects for my Master thesis, I was responsible for designing and developing a Java-based Android App and a Spring-boot based Back End with API by using a service-oriented architecture to structure an app, and a cloud-based platform collects and analysis Alcohol Consumption research across Australia",
-                                "Leverage the mobility that Mobile App offers and the power of Cloud technology we can build a system to collect data and analysis data for supporting the research in Alchohol Consumption",
-                                "This project also formed as part of my Master thesis and achieved H1 in the end. The Android app is published on Google PlayStore, and the corresponding paper is issued on ICMHI2017."
-                            ]
-                        },
-                        {
-                            "name": "Mobile Applicaiton and Cloud Platform to support research in Alzheimer disease",
-                            "duration": "06/2015 - 06/2016",
-                            "descriptions": [
-                                "One of three research projects for my Master thesis, I was responsible for designing and developing an Angular-NativeScript based Android and IOS App and a Spring-boot based Back End with API by using a service-oriented architecture to structure an app, and a cloud-based platform collects and analysis Alzheimer research across Australia",
-                                "Leverage the mobility that Mobile App offers and the power of Cloud technology we can build a system to collect data and analysis data for supporting the research in Alzheimer disease",
-                                "This project also formed as part of my Master thesis and achieved H1 in the end. "
-                            ]
-                        }
-                    ]
-                },
-                {
                     "label": "Cognology",
                     "role": "Full Stack Web Developer",
                     "duration": "12/2013 - 03/2016",

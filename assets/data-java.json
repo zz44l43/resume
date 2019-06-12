@@ -1,261 +1,234 @@
 {
-  "frontmatter": {
-    "project": "Material Resume - Zhi Zheng",
-    "version": "0.0.1",
-    "language": "cn",
-    "description": "Professional Resume using Google's Material Design visual language. Built using modern web development workflow tools, such as Bower for package mamagement, Gulp and plugins for web development task management, Jade as HTML template language and Materialize SASS as CSS scaffolding."
-  },
-  "name": "郑陟(Zheng Zhi)",
-  "title": "软件开发员",
-  "photo": "assets/images/self.jpg",
-  "sides": [
-    {
-      "label": "个人简介",
-      "icon": "person_outline",
-      "type": "text",
-      "items": [
-        "目前就职于 <a href='https://www.leaplegalsoftware.com/'><i>LEAP Legal Software Australia</i></a>, 担任多项任务研发工作。负责全澳海量文件自动化研发，各端口插件开发，内部程序研发以及核心引擎的开发和维护的工作。",
-        "自2013年底开始，至今已有5年开发经验。熟练掌握C#,JavaScripts,SQL,Java,Python代码的编写。熟悉大部分Web开发与调试，能够使用主流框架进行网络页面的开发并且注重代码质量与执行效率。",
-        "热衷于使用代码解决实际问题，拥有独自负责客户端从无到有的产品设计，研发，流程图及开发文档，喜欢拥抱新技术，有很强的学习能力。",
-        "熟悉Git Flow 工作流程有较好的 Git 使用习惯。有良好的代码风格与清晰的文档结构，遵循团队开发规范。",
-        "业余时间热爱学习编写开源代码，关注科技行业前沿技术，喜欢动手尝试各类新技术，特别是AI与机器学习方面。"
-      ]
+    "frontmatter": {
+        "project": "Material Resume - Zhi Zheng",
+        "version": "0.0.1",
+        "language": "cn",
+        "description": "Professional Resume using Google's Material Design visual language. Built using modern web development workflow tools, such as Bower for package mamagement, Gulp and plugins for web development task management, Jade as HTML template language and Materialize SASS as CSS scaffolding."
     },
-    {
-      "label": "联系方式",
-      "icon": "phone",
-      "type": "iconLink",
-      "items": [
-        {
-          "title": "phone",
-          "icon": "phone",
-          "value": "61-433-128100",
-          "href": "tel:61433128100",
-          "type": ""
+    "name": "郑陟(Zheng Zhi)",
+    "title": "软件开发员",
+    "photo": "assets/images/self.jpg",
+    "sides": [{
+            "label": "个人简介",
+            "icon": "person_outline",
+            "type": "text",
+            "items": [
+                "目前就职于 <a href='https://www.leaplegalsoftware.com/'><i>LEAP Legal Software Australia</i></a>, 担任多项任务研发工作。负责全澳海量文件自动化研发，各端口插件开发，内部程序研发以及核心引擎的开发和维护的工作。",
+                "自2013年底开始，至今已有5年开发经验。熟练掌握C#,JavaScripts,SQL,Java,Python代码的编写。熟悉大部分Web开发与调试，能够使用主流框架进行网络页面的开发并且注重代码质量与执行效率。",
+                "热衷于使用代码解决实际问题，拥有独自负责客户端从无到有的产品设计，研发，流程图及开发文档，喜欢拥抱新技术，有很强的学习能力。",
+                "熟悉Git Flow 工作流程有较好的 Git 使用习惯。有良好的代码风格与清晰的文档结构，遵循团队开发规范。",
+                "业余时间热爱学习编写开源代码，关注科技行业前沿技术，喜欢动手尝试各类新技术，特别是AI与机器学习方面。"
+            ]
         },
         {
-          "title": "email",
-          "icon": "email",
-          "value": "georgezheng344@gmail.com",
-          "href": "mailto:georgezheng344@gmail.com",
-          "type": ""
+            "label": "联系方式",
+            "icon": "phone",
+            "type": "iconLink",
+            "items": [{
+                    "title": "phone",
+                    "icon": "phone",
+                    "value": "61-433-128100",
+                    "href": "tel:61433128100",
+                    "type": ""
+                },
+                {
+                    "title": "email",
+                    "icon": "email",
+                    "value": "georgezheng344@gmail.com",
+                    "href": "mailto:georgezheng344@gmail.com",
+                    "type": ""
+                },
+                {
+                    "title": "github",
+                    "icon": "code",
+                    "value": "https://github.com/zz44l43",
+                    "href": "https://github.com/zz44l43",
+                    "type": ""
+                },
+                {
+                    "title": "website",
+                    "icon": "link",
+                    "value": "https://zz44l43.github.io/resume/",
+                    "href": "https://zz44l43.github.io/resume/",
+                    "type": ""
+                }
+            ]
         },
         {
-          "title": "github",
-          "icon": "code",
-          "value": "https://github.com/zz44l43",
-          "href": "https://github.com/zz44l43",
-          "type": ""
-        },
-        {
-          "title": "website",
-          "icon": "link",
-          "value": "https://zz44l43.github.io/resume/",
-          "href": "https://zz44l43.github.io/resume/",
-          "type": ""
+            "label": "技能列表",
+            "icon": "format_list_bulleted",
+            "type": "slider",
+            "items": [{
+                    "label": "JavaScript / Angular / Node / Selenium",
+                    "level": "95%"
+                },
+                {
+                    "label": "ASP.NET Web API / C#",
+                    "level": "90%"
+                },
+                {
+                    "label": "Java / Spring, Spring boot / Android",
+                    "level": "85%"
+                },
+                {
+                    "label": "SQL / SQL-Server / Postgresql",
+                    "level": "80%"
+                },
+                {
+                    "label": "HTML / CSS / SASS / Bootstrap",
+                    "level": "80%"
+                },
+                {
+                    "label": "Python / Flask / Numpy / Pandas / matplotlib / scikit-learn / tensorflow",
+                    "level": "75%"
+                }
+            ]
         }
-      ]
-    },
-    {
-      "label": "技能列表",
-      "icon": "format_list_bulleted",
-      "type": "slider",
-      "items": [
-        {
-          "label": "JavaScript / Angular / Node / Selenium",
-          "level": "95%"
-        },
-        {
-          "label": "ASP.NET Web API / C#",
-          "level": "90%"
-        },
-        {
-          "label": "Java / Spring, Spring boot / Android",
-          "level": "85%"
-        },
-        {
-          "label": "SQL / SQL-Server / Postgresql",
-          "level": "80%"
-        },
-        {
-          "label": "HTML / CSS / SASS / Bootstrap",
-          "level": "80%"
-        },
-        {
-          "label": "Python / Flask / Numpy / Pandas / matplotlib / scikit-learn / tensorflow",
-          "level": "75%"
-        }
-      ]
-    }
-  ],
-  "mains": [
-    {
-      "label": "工作经历",
-      "type": "list",
-      "items": [
-        {
-          "label": "LEAP Legal Software, Australia",
-          "role": "程序开发员 <i>(2019三月份最佳员工)</i>",
-          "duration": "07/2016 - 至今",
-          "projects": [
-            {
-              "name": "内部文档更新分类系统",
-              "duration": "11/2018 - 至今",
-              "descriptions": [
-                "负责设计和开发一套基于机器学习的智能Web系统，帮助公司内部文档的更新分类。",
-                "利用NLP和机器学习的技术，让机器来帮助工作人员智能的进行文档每周的分类与更新，提高了至少1倍的工作效率。",
-                "利用Angular5, Redux, Asp.Net Core2 和 Postgresql 搭建了数据收集软件，结合后端python为主的分类系统，从此每周上千不同文档的更新与分类摆脱了手动的方式，也为利用机器学习的分类方法奠定了良好的基础。"
-              ]
-            },
-            {
-              "name": "LEAP Matter管理系统",
-              "duration": "11/2018 - 至今",
-              "descriptions": [
-                "作为核心人员负责设计和开发一套独立的Matter系统，提供分析与管理Matter。",
-                "利用Angular 7和Redux为前端的主要框架，Asp.Net c# Web Api2为后端框架（Service-oriented architecture)结合AWS DynamoDB为用户提供分析与操作Matter的平台 - 前后端均采取Service-Oriented的结构",
-                "该项目还属于设计和开发阶段，旨在运用可视化和云技术搭建管理与分析的平台。"
-              ]
-            },
-            {
-              "name": "文档自动化系统创新与革新",
-              "duration": "10/2017 - 02/2019",
-              "descriptions": [
-                "作为核心开发成员，负责带领研究，设计和开发一套适用于LEAP公司的PDF文档自动化系统，拓展了公司在各个国家的业务范围,让上万本的具有法律效应的PDF文档从此纳入公司的自动化目录，至此之后公司的自动化业务不再仅限于Word文档格式。",
-                "以前端JavaScript和后端C#为主，优化代码和构架，提升自动化速度与效率，速度可比同公司Word自动化系统提升<strong>10倍</strong>。",
-                "该项目在我接手之前，曾拥有1年的研发期，无奈最后无法突破技术瓶颈以失败告终。在我接手后，3个月内攻破瓶颈，促使该项目得以延续，系统现在已经正式上线，进入迭代与维护状态。"
-              ]
-            },
-            {
-              "name": "其它项目",
-              "duration": "07/2016 - 至今",
-              "descriptions": [
-                "作为前端开发员，负责使用Angular2+以及其它web技术更换以VBA为主要插件的Word文档自动化技术，新的技术大大提升了人机交流的体验与运行速度。",
-                "作为前端开发员，负责使用纯JavaScript替换核心自动化引擎，将server-side自动化引擎搬到了client-side",
-                "作为全栈开发员，根据业务需求分析，负责使用Web的全栈技术，开发和设计各项业务插件。"
-              ]
-            }
-          ]
-        },
-        {
-          "label": "The University of Melbourne (墨尔本大学)",
-          "role": "研究助手",
-          "duration": "03/2018 - 12/2018",
-          "projects": [
-            {
-              "name": "犯罪分子智能识别系统",
-              "duration": "03/2018 - 12/2018",
-              "descriptions": [
-                "墨尔本大学E-Research的成员，同时也是研究生3大研究项目之一，作为该项目的主要负责人，带领一个5人的团队，进行程序的研究，设计和Android移动端以及后端Java的开发。",
-                "负责利用Java Spring Framework/Spring boot作为后端Restfull Api及系统的开发和设计，以及前端Adnroid Java移动端的开发和设计 - 前后端均采取Service-Oriented的结构",
-                "该项目致力于应用最新的声音与图像识别功能辅以手机应用的便携性，帮助执法人员随时随地，识别出有过案底的罪犯。",
-                "该项目作为墨大研究生毕业论文的一部分，成功取得H1的好成绩，该项目目前已经进入最后测试和迭代阶段。"
-              ]
-            }
-          ]
-        },
-        {
-          "label": "The University of Melbourne (墨尔本大学)",
-          "role": "Computer Science 研究生 - Applied Computing研究项目",
-          "duration": "06/2015 - 12/2018",
-          "projects": [
-            {
-              "name": "搭建Alcohol Consumption 的数据收集和分析平台",
-              "duration": "06/2015 - 06/2016",
-              "descriptions": [
-                "研究生3大研究项目之一，主要负责使用Java设计， 开发Android的移动端和后端Spring Boot - Restful Api",
-                "负责利用Java Spring Framework/Spring boot作为后端Restfull Api的开发，以及Android Java移动端的开发 - 前后端均采取Service-Oriented的结构",
-                "该项目致力于应用云与移动端的便携性来负责数据的收集和分析，以帮助 Alcohol（酒精） 医学领域的研究和发展。",
-                "该项目作为墨大研究生毕业论文的一部分，成功取得H1的好成绩，Android移动端程序在Google Play上线，文章发表在ICMHI2017上 <i>A Mobile Application and Cloud Platform Supporting Research into Alcohol Consumption</i>。"
-              ]
-            },
-            {
-              "name": "搭建Alzheimer disease 的数据据收集和分析平台",
-              "duration": "06/2017 - 12/2018",
-              "descriptions": [
-                "研究生3大研究项目之一，主要负责设计， 开发Android和IOS的移动端和后端Java Spring Boot Api",
-                "负责利用Java Spring Framework/Spring boot作为后端Restfull Api的开发。利用Angular NativeScripts来开发IOS和Android移动端的程序",
-                "该项目致力于应用云与移动端的便携性来负责数据的收集和分析，以帮助 Alzheimer（老年痴呆）医学领域的研究和发展。",
-                "该项目作为墨大研究生毕业论文的一部分，成功取得H1的好成绩。"
-              ]
-            }
-          ]
-        },
-        {
-          "label": "Cognology",
-          "role": "全栈Web开发员",
-          "duration": "12/2013 - 03/2016",
-          "projects": [
-            {
-              "name": "SAAS HR系统开发",
-              "duration": "12/2013 - 03/2016",
-              "descriptions": [
-                "作为开发员利用Asp.Net C#, AngularJs, SQL Server等技术根据需求开发多项业务模块，熟练掌握各类Web开发框架，熟悉MVC模型。",
-                "利用Selenium, VS-UnitTest等工具对产品进行BDD风格的多方面测试，利用TDD保证代码的可靠和安全。",
-                "参与新模块的前后端架构设计与编写。"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "教育经历",
-      "type": "list",
-      "items": [
-        {
-          "label": "墨尔本大学",
-          "role": "计算机科学研究生 <a href='https://study.unimelb.edu.au/find/courses/graduate/master-of-science-computer-science/'><i>(Master of Science (Computer Science))</i></a>",
-          "duration": "06/2014 - 12/2018",
-          "descriptions": [
-            "工作之余在墨大攻读计算机研究生，获得学院奖学金，期间所有研究项目均获得<strong>H1</strong>的好成绩，并且在2017年发表了 <i>A Mobile Application and Cloud Platform Supporting Research into Alcohol Consumption</i> 文章于ICMHI2017上。",
-            "主要研究方向为计算机科学的应用，主要集中在移动式，云端和Ai技术在各项研究领域的应用，研究如何利用最先进的计算机技术帮助不同研究领域的人们提高效率，改变他们做事情的方式。",
-            "就读期间受导师邀请进入学校E-Research部门，研究如何将各种计算机技术运用到实际项目中。",
-            "攻读不同授课类课程，选课主要方向为AI,机器学习与分布式系统 - 学习了分布式系统的各项技术,E.g: HDFS, Cassandra, Kafka, Zoo-Keeper and Cassandra。"
-          ]
-        },
-        {
-          "label": "墨尔本皇家理工大学",
-          "role": "计算机授课型硕士",
-          "duration": "06/2012 - 12/2013",
-          "descriptions": [
-            "攻读于墨尔本皇家理工大学，在校期间取得了<strong>3.9/4.0</strong> 的GPA,成绩位于学院前10%，获得Golden Key成员邀请。"
-          ]
-        },
-        {
-          "label": "墨尔本大学",
-          "role": "会计与金融本科 <a href='https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/'><i>(Bachelor of Commerce(Accounting & Finance))</i></a>",
-          "duration": "03/2008 - 12/2010",
-          "descriptions": [
-            "本科毕业于墨尔本大学商学院。"
-          ]
-        }
-      ]
-    }
-  ],
-  "rest": {
-    "label": "关于这页",
-    "type": "text",
-    "items": [
-      "This page was developed using a modern web development workflow approach that leverages",
-      "SoC principle to completely decouple the organization, style, interactive and content layers.",
-      "The tools below are part of this workflow."
     ],
-    "icons": [
-      {
-        "href": "http://angular.io/",
-        "title": "Angular 5 - As development framework",
-        "src": "assets/images/built_with_angular.png"
-      },
-      {
-        "href": "http://json.org/",
-        "title": "JSON - As content data layer",
-        "src": "assets/images/built_with_json2.png"
-      },
-      {
-        "href": "https://materializecss.com",
-        "title": "materialize - As style of content",
-        "src": "assets/images/built_with_materialize2.png"
-      }
-    ]
-  }
+    "mains": [{
+            "label": "工作经历",
+            "type": "list",
+            "items": [{
+                    "label": "LEAP Legal Software, Australia",
+                    "role": "程序开发员 <i>(2019三月份最佳员工)</i>",
+                    "duration": "07/2016 - 至今",
+                    "projects": [{
+                            "name": "内部文档更新分类系统",
+                            "duration": "11/2018 - 至今",
+                            "descriptions": [
+                                "项目技术: Angular7, Redux, TypeScripts, BootStrap CSS, HTML5, .NET Core 2.2 C# WebApi, PostgresSql, Python",
+                                "主动提出负责并设计和开发一套基于机器学习的智能Web系统，帮助公司内部文档的更新分类。",
+                                "项目技术: 使用Angular7 + Redux为前端框架结合以Bootstrap为主的css框架和HTML5快速开发并上线了前端App。",
+                                "使用.Net Core2 和 Postgresql 搭建了后端Api结合Python为主的分类系统，实现了分类系统的数据收集与用户交互。"
+                            ]
+                        },
+                        {
+                            "name": "LEAP Matter管理系统",
+                            "duration": "11/2018 - 至今",
+                            "descriptions": [
+                                "项目技术: Angular7, Redux, TypeScripts, BootStrap CSS, HTML5, .NET Core 2.2 C# WebApi, DynamoDB, Docker",
+                                "作为核心人员负责设计和开发一套独立的Matter系统，提供分析与管理Matter。",
+                                "利用Angular 7和Redux为前端的主要框架结合以Bootstrap为主的css框架和HTML5开发前端App。",
+                                ".Net Core 2 c# Web Api2为后端框架（Service-oriented architecture)结合AWS DynamoDB为用户提供分析与操作Matter的平台。",
+                                "该项目还属于设计和开发阶段，旨在运用可视化和云技术搭建管理，操作和分析Matter的平台。"
+                            ]
+                        },
+                        {
+                            "name": "文档自动化系统创新与革新",
+                            "duration": "10/2017 - 02/2019",
+                            "descriptions": [
+                                "项目技术: JavsScripts, .NET 4.0 C# WebApi, Adobe ES5",
+                                "以前端JavaScript和后端.NET C#为主，构建Rest Api和相应的业务service，速度可比同公司Word自动化系统提升<strong>10倍</strong>。",
+                                "作为核心开发成员，负责带领研究，设计和开发一套适用于LEAP公司的PDF文档自动化系统，拓展了公司在各个国家的业务范围,让上万本的具有法律效应的PDF文档从此纳入公司的自动化目录，至此之后公司的自动化业务不再仅限于Word文档格式。"
+                            ]
+                        },
+                        {
+                            "name": "其它项目",
+                            "duration": "07/2016 - 至今",
+                            "descriptions": [
+                                "项目技术: Angular2+, JavsScripts,BootStrap CSS, HTML5, TypeScripts, .NET C#, VBA,",
+                                "作为前端开发员，负责使用Angular2+, BootStrap, HTML5, 更换以VBA为主要插件的Word文档自动化技术，新的技术大大提升了人机交流的体验与运行速度。",
+                                "作为前端开发员，负责使用纯JavaScript替换核心自动化引擎，将server-side自动化引擎搬到了client-side",
+                                "作为全栈开发员，根据业务需求分析，负责使用Web的全栈技术，开发和设计各项业务插件。"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "label": "The University of Melbourne (墨尔本大学)",
+                    "role": "研究助手",
+                    "duration": "03/2018 - 12/2018",
+                    "projects": [{
+                        "name": "犯罪分子智能识别系统",
+                        "duration": "03/2018 - 12/2018",
+                        "descriptions": [
+                            "墨尔本大学E-Research的成员，同时也是研究生3大研究项目之一，作为该项目的主要负责人，带领一个5人的团队，进行程序的研究，设计和Android移动端以及后端Java的开发。",
+                            "负责利用Java Spring Framework/Spring boot作为后端Restfull Api及系统的开发和设计，以及前端Adnroid Java移动端的开发和设计 - 前后端均采取Service-Oriented的结构",
+                            "该项目致力于应用最新的声音与图像识别功能辅以手机应用的便携性，帮助执法人员随时随地，识别出有过案底的罪犯。",
+                            "该项目作为墨大研究生毕业论文的一部分，成功取得H1的好成绩，该项目目前已经进入最后测试和迭代阶段。"
+                        ]
+                    }]
+                },
+                {
+                    "label": "Cognology",
+                    "role": "全栈Web开发员",
+                    "duration": "12/2013 - 03/2016",
+                    "projects": [{
+                        "name": "SAAS HR系统开发",
+                        "duration": "12/2013 - 03/2016",
+                        "descriptions": [
+                            "作为开发员利用Asp.Net C#, AngularJs, SQL Server等技术根据需求开发多项业务模块，熟练掌握各类Web开发框架，熟悉MVC模型。",
+                            "利用Selenium, VS-UnitTest等工具对产品进行BDD风格的多方面测试，利用TDD保证代码的可靠和安全。",
+                            "参与新模块的前后端架构设计与编写。"
+                        ]
+                    }]
+                }
+            ]
+        },
+        {
+            "label": "教育经历",
+            "type": "list",
+            "items": [{
+                    "label": "墨尔本大学",
+                    "role": "计算机科学研究生 <a href='https://study.unimelb.edu.au/find/courses/graduate/master-of-science-computer-science/'><i>(Master of Science (Computer Science))</i></a>",
+                    "duration": "06/2014 - 12/2018",
+                    "descriptions": [
+                        "工作之余在墨大攻读计算机研究生，获得学院奖学金，期间所有研究项目均获得<strong>H1</strong>的好成绩，并且在2017年发表了 <i>A Mobile Application and Cloud Platform Supporting Research into Alcohol Consumption</i> 文章于ICMHI2017上。",
+                        "主要研究方向为计算机科学的应用，主要集中在移动式，云端和Ai技术在各项研究领域的应用，研究如何利用最先进的计算机技术帮助不同研究领域的人们提高效率，改变他们做事情的方式。",
+                        "就读期间受导师邀请进入学校E-Research部门，研究如何将各种计算机技术运用到实际项目中。",
+                        "攻读不同授课类课程，选课主要方向为AI,机器学习与分布式系统 - 学习了分布式系统的各项技术,E.g: HDFS, Cassandra, Kafka, Zoo-Keeper and Cassandra。"
+                    ]
+                },
+                {
+                    "label": "墨尔本皇家理工大学",
+                    "role": "计算机授课型硕士",
+                    "duration": "06/2012 - 12/2013",
+                    "descriptions": [
+                        "攻读于墨尔本皇家理工大学，在校期间取得了<strong>3.9/4.0</strong> 的GPA,成绩位于学院前10%，获得Golden Key成员邀请。"
+                    ]
+                },
+                {
+                    "label": "墨尔本皇家理工大学",
+                    "role": "Master of Business Information Technology",
+                    "duration": "03/2011 - 06/2012",
+                    "descriptions": [
+                        "攻读于墨尔本皇家理工大学Business Information Technology"
+                    ]
+                },
+                {
+                    "label": "墨尔本大学",
+                    "role": "会计与金融本科 <a href='https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/'><i>(Bachelor of Commerce(Accounting & Finance))</i></a>",
+                    "duration": "03/2008 - 12/2010",
+                    "descriptions": [
+                        "本科毕业于墨尔本大学商学院。"
+                    ]
+                }
+            ]
+        }
+    ],
+    "rest": {
+        "label": "关于这页",
+        "type": "text",
+        "items": [
+            "This page was developed using a modern web development workflow approach that leverages",
+            "SoC principle to completely decouple the organization, style, interactive and content layers.",
+            "The tools below are part of this workflow."
+        ],
+        "icons": [{
+                "href": "http://angular.io/",
+                "title": "Angular 5 - As development framework",
+                "src": "assets/images/built_with_angular.png"
+            },
+            {
+                "href": "http://json.org/",
+                "title": "JSON - As content data layer",
+                "src": "assets/images/built_with_json2.png"
+            },
+            {
+                "href": "https://materializecss.com",
+                "title": "materialize - As style of content",
+                "src": "assets/images/built_with_materialize2.png"
+            }
+        ]
+    }
 }
